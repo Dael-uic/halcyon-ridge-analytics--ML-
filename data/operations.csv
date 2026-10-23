@@ -1,0 +1,1001 @@
+op_id,terrain,weather,time,duration,force,enemy_ratio,air,intel,armor,medevac,casualty,outcome,incident,mce
+OP-1001,Mountain,Rain,Day,18,98,0.65,0,8,2,169,10.2,Partial,Direct Assault,Yes
+OP-1002,Desert,Fog,Day,23,69,2.1,0,3,8,65,11.2,Partial,Direct Assault,Yes
+OP-1003,Jungle,Clear,Dusk,1,340,2.58,0,9,2,174,17.2,Failure,IED,Yes
+OP-1004,Jungle,Fog,Day,28,245,0.45,0,4,60,169,11.3,Failure,Ambush,Yes
+OP-1005,Urban,Clear,Day,18,85,0.43,1,10,49,33,0.8,Success,IED,No
+OP-1006,Urban,Storm,Night,19,116,0.41,1,4,50,30,6.2,Success,Ambush,No
+OP-1007,Plains,Fog,Night,23,486,1.24,1,7,45,18,3.0,Success,Ambush,No
+OP-1008,Urban,Storm,Dusk,27,527,0.39,1,10,2,14,2.9,Success,Direct Assault,No
+OP-1009,Mountain,Clear,Day,4,108,1.94,1,1,54,118,9.6,Partial,Ambush,No
+OP-1010,Jungle,Rain,Dusk,13,69,0.57,0,8,15,88,7.2,Partial,IED,No
+OP-1011,Desert,Clear,Night,23,123,1.69,0,3,59,21,8.6,Partial,IED,No
+OP-1012,Mountain,Clear,Day,7,551,0.95,0,2,6,15,7.8,Failure,Ambush,No
+OP-1013,Mountain,Clear,Dusk,22,594,0.75,1,9,3,23,1.5,Success,IED,No
+OP-1014,Mountain,Clear,Day,18,55,1.12,1,9,28,159,8.6,Success,Ambush,No
+OP-1015,Jungle,Storm,Day,27,524,2.43,0,7,60,24,12.0,Success,Direct Assault,Yes
+OP-1016,Mountain,Rain,Day,8,297,1.66,1,10,1,165,10.4,Success,IED,Yes
+OP-1017,Urban,Fog,Night,17,141,2.56,0,10,48,159,17.6,Failure,Ambush,Yes
+OP-1018,Desert,Rain,Night,3,402,0.62,1,4,49,116,4.9,Partial,Indirect Fire,No
+OP-1019,Desert,Rain,Day,15,267,1.02,0,5,48,151,10.8,Failure,Indirect Fire,Yes
+OP-1020,Mountain,Fog,Night,19,518,0.59,1,4,44,123,8.4,Success,Ambush,No
+OP-1021,Jungle,Clear,Day,24,239,2.38,1,4,36,127,14.5,Failure,Ambush,Yes
+OP-1022,Desert,Clear,Night,17,241,1.04,0,10,49,43,1.7,Success,Indirect Fire,No
+OP-1023,Urban,Clear,Dusk,30,73,2.86,1,6,41,137,14.2,Failure,Direct Assault,Yes
+OP-1024,Plains,Rain,Dusk,24,465,2.22,0,1,23,50,12.6,Failure,Indirect Fire,Yes
+OP-1025,Plains,Clear,Day,24,562,1.26,0,3,47,13,5.8,Partial,Direct Assault,No
+OP-1026,Desert,Clear,Day,18,147,2.49,0,7,16,23,8.5,Success,IED,No
+OP-1027,Plains,Clear,Day,15,320,0.73,0,3,50,48,3.6,Success,Direct Assault,No
+OP-1028,Plains,Clear,Day,12,403,2.69,0,6,41,109,11.3,Failure,Direct Assault,Yes
+OP-1029,Desert,Fog,Night,10,356,2.0,0,9,17,109,10.1,Partial,IED,Yes
+OP-1030,Jungle,Rain,Dusk,30,406,1.38,0,3,55,178,16.4,Failure,IED,Yes
+OP-1031,Urban,Clear,Day,5,238,1.6,0,8,16,70,7.4,Success,Ambush,No
+OP-1032,Plains,Rain,Day,7,81,2.51,1,6,21,58,7.2,Partial,Indirect Fire,No
+OP-1033,Urban,Clear,Day,12,118,1.55,1,1,34,170,14.3,Failure,Direct Assault,Yes
+OP-1034,Jungle,Clear,Day,15,383,1.11,0,5,53,79,9.7,Partial,IED,No
+OP-1035,Urban,Storm,Night,29,102,0.55,1,7,15,137,9.7,Success,Ambush,No
+OP-1036,Desert,Clear,Dusk,18,278,1.63,1,5,55,158,11.3,Partial,Ambush,Yes
+OP-1037,Urban,Clear,Night,19,197,1.92,1,5,1,64,7.6,Success,IED,No
+OP-1038,Desert,Storm,Dusk,8,244,1.7,0,3,4,139,16.0,Failure,Ambush,Yes
+OP-1039,Plains,Clear,Day,14,394,0.8,0,5,0,110,7.5,Success,Direct Assault,No
+OP-1040,Plains,Storm,Day,11,521,1.47,1,4,49,38,4.5,Success,Direct Assault,No
+OP-1041,Plains,Rain,Day,1,170,0.65,0,10,32,26,0.2,Success,Direct Assault,No
+OP-1042,Mountain,Clear,Dusk,22,315,2.3,1,2,43,46,11.9,Failure,Indirect Fire,Yes
+OP-1043,Desert,Storm,Day,7,220,2.65,0,7,30,138,14.4,Failure,Direct Assault,Yes
+OP-1044,Jungle,Rain,Night,2,52,1.33,0,4,34,142,13.4,Failure,Ambush,Yes
+OP-1045,Mountain,Clear,Night,19,228,1.07,1,1,37,97,10.6,Partial,Ambush,Yes
+OP-1046,Desert,Clear,Day,17,434,0.9,1,4,50,33,2.4,Success,Indirect Fire,No
+OP-1047,Mountain,Clear,Dusk,21,529,1.83,0,5,4,78,14.3,Failure,Ambush,Yes
+OP-1048,Urban,Clear,Night,12,424,1.51,0,1,26,133,16.0,Failure,Ambush,Yes
+OP-1049,Desert,Clear,Night,15,183,2.63,1,9,8,158,11.2,Partial,IED,Yes
+OP-1050,Plains,Clear,Night,8,141,0.62,0,8,26,148,5.4,Success,Direct Assault,No
+OP-1051,Plains,Fog,Night,14,283,2.7,0,9,55,46,8.0,Partial,Direct Assault,No
+OP-1052,Urban,Rain,Night,23,507,0.79,1,3,23,63,7.4,Success,Direct Assault,No
+OP-1053,Plains,Fog,Dusk,2,347,0.61,0,9,29,68,2.7,Success,Direct Assault,No
+OP-1054,Mountain,Rain,Day,8,112,2.22,0,8,25,98,11.9,Partial,Ambush,Yes
+OP-1055,Plains,Clear,Dusk,16,433,0.73,0,6,16,12,2.8,Success,Indirect Fire,No
+OP-1056,Jungle,Storm,Night,29,296,1.5,1,7,54,92,10.5,Partial,Ambush,Yes
+OP-1057,Jungle,Clear,Day,15,361,1.01,0,7,12,113,8.3,Partial,Indirect Fire,No
+OP-1058,Urban,Clear,Dusk,19,444,2.88,1,8,21,172,16.6,Failure,IED,Yes
+OP-1059,Desert,Clear,Night,20,271,0.86,0,10,14,113,7.2,Success,Direct Assault,No
+OP-1060,Mountain,Clear,Night,15,476,1.94,1,5,20,11,7.9,Success,IED,No
+OP-1061,Mountain,Clear,Dusk,13,100,1.54,1,2,48,174,12.6,Failure,Direct Assault,Yes
+OP-1062,Urban,Fog,Night,15,408,1.92,0,6,4,41,9.7,Partial,IED,No
+OP-1063,Jungle,Clear,Dusk,29,445,2.16,0,1,51,177,17.0,Failure,IED,Yes
+OP-1064,Jungle,Clear,Day,12,74,1.95,0,9,6,14,7.8,Success,IED,No
+OP-1065,Mountain,Fog,Night,7,121,0.86,1,1,32,14,4.8,Partial,Ambush,No
+OP-1066,Urban,Fog,Day,8,189,1.05,0,3,49,104,10.9,Failure,IED,Yes
+OP-1067,Jungle,Fog,Day,5,347,2.61,0,9,60,171,14.4,Failure,Direct Assault,Yes
+OP-1068,Mountain,Clear,Night,13,525,2.59,0,5,50,109,14.3,Failure,Ambush,Yes
+OP-1069,Mountain,Clear,Day,5,543,0.97,0,9,27,43,5.5,Success,Ambush,No
+OP-1070,Plains,Rain,Day,17,218,0.46,0,3,47,157,10.4,Failure,Indirect Fire,Yes
+OP-1071,Urban,Clear,Day,19,497,2.45,1,5,4,64,10.9,Failure,IED,Yes
+OP-1072,Desert,Clear,Night,9,220,2.26,0,3,27,114,13.8,Failure,Direct Assault,Yes
+OP-1073,Plains,Rain,Night,30,449,2.35,0,8,23,141,15.6,Failure,Direct Assault,Yes
+OP-1074,Mountain,Rain,Night,21,525,2.12,0,9,47,72,9.9,Partial,Indirect Fire,No
+OP-1075,Jungle,Clear,Dusk,27,287,1.72,1,1,35,46,11.0,Partial,Ambush,Yes
+OP-1076,Plains,Clear,Day,7,548,2.56,1,3,11,90,11.8,Failure,Ambush,Yes
+OP-1077,Desert,Clear,Night,9,433,0.61,0,2,39,46,5.6,Success,Direct Assault,No
+OP-1078,Desert,Rain,Dusk,6,170,2.82,1,5,31,111,12.3,Partial,IED,Yes
+OP-1079,Jungle,Fog,Dusk,17,252,1.04,1,1,35,52,6.7,Partial,IED,No
+OP-1080,Plains,Clear,Day,3,438,1.17,0,6,59,93,6.0,Success,Direct Assault,No
+OP-1081,Jungle,Clear,Dusk,15,185,2.04,1,4,33,48,7.8,Partial,IED,No
+OP-1082,Desert,Storm,Day,7,307,1.42,1,5,29,60,7.9,Partial,Ambush,No
+OP-1083,Desert,Clear,Day,30,127,1.55,0,5,43,111,10.7,Partial,Direct Assault,Yes
+OP-1084,Mountain,Fog,Night,20,94,0.67,1,1,52,160,13.8,Failure,Ambush,Yes
+OP-1085,Desert,Clear,Dusk,12,507,1.01,0,8,45,40,4.6,Success,Ambush,No
+OP-1086,Jungle,Clear,Night,25,101,1.76,1,7,27,79,9.1,Partial,Indirect Fire,No
+OP-1087,Plains,Clear,Day,8,64,1.81,0,5,14,35,7.9,Success,Direct Assault,No
+OP-1088,Mountain,Clear,Night,29,161,2.41,1,1,27,174,16.7,Failure,Ambush,Yes
+OP-1089,Desert,Rain,Night,23,532,2.95,0,3,60,10,11.3,Partial,Ambush,Yes
+OP-1090,Plains,Storm,Day,9,223,0.44,1,7,22,55,4.1,Success,IED,No
+OP-1091,Desert,Rain,Dusk,14,192,2.34,0,4,10,20,10.4,Partial,Indirect Fire,Yes
+OP-1092,Jungle,Rain,Day,2,224,0.51,1,2,24,89,5.0,Partial,Indirect Fire,No
+OP-1093,Jungle,Storm,Day,10,505,0.31,0,6,51,63,5.5,Success,IED,No
+OP-1094,Urban,Clear,Day,11,409,0.5,1,1,12,175,10.9,Failure,IED,Yes
+OP-1095,Urban,Storm,Night,14,467,1.39,0,3,12,104,11.6,Failure,Ambush,Yes
+OP-1096,Desert,Rain,Day,6,179,1.51,1,9,28,68,3.8,Success,IED,No
+OP-1097,Mountain,Rain,Night,7,501,2.73,0,1,15,127,18.9,Failure,Indirect Fire,Yes
+OP-1098,Urban,Clear,Day,6,64,0.88,0,7,49,156,9.5,Failure,IED,No
+OP-1099,Mountain,Clear,Day,9,315,1.84,0,1,15,45,9.9,Failure,Indirect Fire,No
+OP-1100,Desert,Rain,Day,17,587,0.58,0,5,7,143,10.3,Partial,IED,Yes
+OP-1101,Plains,Clear,Day,15,308,2.75,0,1,10,147,16.4,Failure,Direct Assault,Yes
+OP-1102,Jungle,Rain,Dusk,30,485,1.16,1,2,35,153,12.1,Partial,IED,Yes
+OP-1103,Desert,Clear,Night,9,582,1.84,0,8,11,38,6.5,Success,Direct Assault,No
+OP-1104,Desert,Rain,Dusk,11,295,1.45,1,9,31,149,7.0,Partial,IED,No
+OP-1105,Jungle,Clear,Dusk,19,368,2.51,1,6,55,108,11.2,Failure,Direct Assault,Yes
+OP-1106,Desert,Clear,Day,17,180,2.5,1,8,20,146,11.1,Partial,Indirect Fire,Yes
+OP-1107,Jungle,Storm,Day,13,279,1.23,0,5,30,107,13.5,Failure,Direct Assault,Yes
+OP-1108,Plains,Clear,Day,25,190,2.93,0,3,28,101,18.0,Failure,IED,Yes
+OP-1109,Urban,Clear,Night,24,336,1.24,1,6,54,45,4.3,Success,IED,No
+OP-1110,Desert,Clear,Day,14,356,2.66,0,1,57,140,16.8,Failure,Ambush,Yes
+OP-1111,Mountain,Clear,Day,4,366,2.84,1,2,31,146,15.2,Failure,Indirect Fire,Yes
+OP-1112,Plains,Clear,Dusk,7,398,2.76,0,8,15,20,10.7,Failure,Indirect Fire,Yes
+OP-1113,Desert,Clear,Dusk,7,203,0.48,0,4,18,137,8.1,Success,Indirect Fire,No
+OP-1114,Plains,Clear,Day,18,464,2.95,0,9,9,42,9.7,Success,Indirect Fire,No
+OP-1115,Urban,Clear,Day,20,415,2.61,1,3,31,75,12.9,Partial,IED,Yes
+OP-1116,Plains,Fog,Day,11,543,1.16,0,9,32,174,9.4,Partial,Ambush,No
+OP-1117,Desert,Fog,Day,8,230,0.88,1,8,5,96,6.7,Success,Ambush,No
+OP-1118,Plains,Clear,Day,7,599,2.55,0,10,20,110,9.9,Partial,Indirect Fire,No
+OP-1119,Urban,Fog,Night,30,299,0.75,1,6,14,105,9.8,Partial,IED,No
+OP-1120,Plains,Fog,Night,4,348,1.91,1,6,31,173,11.0,Failure,Ambush,Yes
+OP-1121,Jungle,Clear,Dusk,1,97,2.13,1,2,43,148,12.2,Failure,Direct Assault,Yes
+OP-1122,Desert,Clear,Day,6,542,0.63,0,1,27,48,8.7,Failure,Direct Assault,No
+OP-1123,Jungle,Fog,Day,27,269,2.62,1,6,56,54,10.1,Partial,Ambush,Yes
+OP-1124,Jungle,Clear,Dusk,18,287,0.36,0,1,45,169,12.1,Partial,Ambush,Yes
+OP-1125,Urban,Clear,Day,6,589,2.83,0,8,54,163,13.3,Failure,Ambush,Yes
+OP-1126,Jungle,Clear,Day,17,522,2.23,1,10,16,119,9.9,Partial,Indirect Fire,No
+OP-1127,Urban,Rain,Night,28,112,1.86,1,10,27,89,6.6,Success,Ambush,No
+OP-1128,Plains,Rain,Day,26,59,1.8,0,5,20,14,9.6,Failure,Indirect Fire,No
+OP-1129,Plains,Fog,Day,9,197,1.79,0,7,16,125,8.7,Partial,Direct Assault,No
+OP-1130,Urban,Rain,Day,30,518,2.17,0,9,30,42,10.2,Partial,Ambush,Yes
+OP-1131,Plains,Fog,Dusk,19,455,0.36,1,9,14,159,3.3,Success,Indirect Fire,No
+OP-1132,Jungle,Rain,Night,29,381,0.45,1,5,30,71,6.9,Success,Indirect Fire,No
+OP-1133,Jungle,Storm,Dusk,10,469,1.26,1,6,39,73,8.7,Partial,Ambush,No
+OP-1134,Jungle,Rain,Night,26,574,1.63,0,1,36,115,15.7,Failure,Ambush,Yes
+OP-1135,Mountain,Clear,Night,6,399,0.55,1,6,1,103,8.9,Partial,IED,No
+OP-1136,Desert,Clear,Day,11,72,2.31,0,10,18,173,13.4,Failure,Ambush,Yes
+OP-1137,Desert,Clear,Night,25,452,1.76,0,9,24,20,4.7,Success,Ambush,No
+OP-1138,Mountain,Clear,Day,7,253,1.91,1,3,5,66,10.2,Failure,Ambush,Yes
+OP-1139,Plains,Clear,Dusk,2,498,2.42,1,4,22,90,9.1,Partial,Ambush,No
+OP-1140,Plains,Rain,Dusk,28,45,0.99,0,2,13,103,11.8,Failure,Indirect Fire,Yes
+OP-1141,Plains,Clear,Night,24,558,2.94,1,4,47,154,14.7,Failure,Indirect Fire,Yes
+OP-1142,Desert,Clear,Day,20,95,1.74,0,9,40,57,6.8,Success,Indirect Fire,No
+OP-1143,Desert,Clear,Dusk,10,282,1.68,1,1,4,37,9.3,Failure,Indirect Fire,No
+OP-1144,Plains,Fog,Dusk,27,377,0.31,1,5,52,93,5.8,Success,Direct Assault,No
+OP-1145,Jungle,Rain,Dusk,20,549,0.82,0,9,11,155,11.2,Failure,IED,Yes
+OP-1146,Mountain,Fog,Day,3,460,0.72,1,2,31,108,12.1,Failure,Ambush,Yes
+OP-1147,Desert,Fog,Day,7,317,0.79,1,9,37,105,1.9,Success,Ambush,No
+OP-1148,Mountain,Rain,Dusk,5,486,0.8,1,8,21,45,2.7,Success,IED,No
+OP-1149,Mountain,Clear,Dusk,3,212,0.42,0,2,50,92,8.0,Partial,Indirect Fire,No
+OP-1150,Urban,Rain,Day,7,446,0.95,1,8,43,91,4.0,Success,IED,No
+OP-1151,Urban,Clear,Day,11,385,2.19,0,4,16,101,13.3,Failure,IED,Yes
+OP-1152,Mountain,Fog,Night,29,182,2.55,0,6,51,165,19.8,Failure,Ambush,Yes
+OP-1153,Jungle,Clear,Day,8,412,1.53,1,3,29,102,9.2,Failure,Ambush,No
+OP-1154,Plains,Clear,Night,23,74,0.56,1,2,44,170,7.5,Partial,Direct Assault,No
+OP-1155,Desert,Clear,Night,13,127,1.15,1,5,10,115,6.8,Success,IED,No
+OP-1156,Jungle,Rain,Dusk,6,70,0.48,0,7,4,86,6.6,Success,Ambush,No
+OP-1157,Jungle,Fog,Day,13,279,1.07,0,10,3,161,12.1,Failure,Ambush,Yes
+OP-1158,Urban,Fog,Night,7,294,2.03,1,7,25,53,8.8,Partial,IED,No
+OP-1159,Desert,Fog,Dusk,16,136,0.87,1,7,9,19,2.5,Success,Direct Assault,No
+OP-1160,Plains,Clear,Day,12,510,2.54,0,4,14,150,15.0,Failure,Direct Assault,Yes
+OP-1161,Urban,Clear,Day,27,243,1.1,0,8,38,145,8.7,Partial,Indirect Fire,No
+OP-1162,Jungle,Storm,Day,3,183,0.58,0,4,25,158,10.8,Success,IED,Yes
+OP-1163,Desert,Fog,Day,16,61,1.93,1,6,15,140,11.3,Failure,Ambush,Yes
+OP-1164,Desert,Rain,Dusk,28,580,0.41,0,5,8,116,10.1,Partial,IED,Yes
+OP-1165,Desert,Rain,Night,9,271,1.51,0,7,32,41,5.6,Success,Direct Assault,No
+OP-1166,Urban,Rain,Day,15,284,0.41,0,10,17,177,11.0,Partial,Direct Assault,Yes
+OP-1167,Jungle,Rain,Dusk,2,586,1.42,0,1,6,121,13.5,Failure,Direct Assault,Yes
+OP-1168,Urban,Clear,Day,1,355,0.67,1,3,20,93,7.1,Success,IED,No
+OP-1169,Mountain,Clear,Day,28,150,0.42,0,2,47,95,7.9,Partial,Direct Assault,No
+OP-1170,Urban,Storm,Day,10,508,1.91,0,8,53,83,12.6,Failure,IED,Yes
+OP-1171,Desert,Clear,Night,1,237,1.16,0,3,36,70,7.0,Failure,Ambush,No
+OP-1172,Plains,Rain,Dusk,12,189,2.08,0,3,21,124,14.2,Failure,Direct Assault,Yes
+OP-1173,Mountain,Fog,Night,19,56,2.28,0,7,4,62,12.1,Failure,IED,Yes
+OP-1174,Mountain,Clear,Dusk,20,282,0.34,0,3,0,119,9.8,Partial,Direct Assault,No
+OP-1175,Jungle,Rain,Dusk,16,258,2.57,1,8,49,77,9.8,Partial,Ambush,No
+OP-1176,Desert,Fog,Dusk,27,306,1.96,0,6,48,45,10.0,Partial,Ambush,Yes
+OP-1177,Jungle,Clear,Dusk,23,434,1.54,1,6,33,141,12.7,Failure,Direct Assault,Yes
+OP-1178,Mountain,Fog,Night,15,491,1.02,1,6,43,62,8.0,Success,Indirect Fire,No
+OP-1179,Mountain,Clear,Night,4,481,2.69,1,6,1,79,11.6,Failure,Indirect Fire,Yes
+OP-1180,Mountain,Clear,Day,30,463,0.44,1,1,49,15,3.2,Success,Indirect Fire,No
+OP-1181,Jungle,Clear,Dusk,7,581,0.59,1,5,20,87,6.9,Partial,Ambush,No
+OP-1182,Urban,Fog,Dusk,4,427,0.62,0,3,52,58,8.5,Partial,Ambush,No
+OP-1183,Urban,Clear,Night,9,393,1.36,1,7,43,42,5.1,Success,IED,No
+OP-1184,Mountain,Storm,Day,9,567,2.6,0,6,3,61,13.7,Failure,IED,Yes
+OP-1185,Mountain,Rain,Dusk,2,559,2.37,0,2,57,107,13.0,Failure,Indirect Fire,Yes
+OP-1186,Mountain,Rain,Day,8,400,0.54,0,6,23,177,11.5,Partial,Ambush,Yes
+OP-1187,Urban,Storm,Dusk,14,434,1.05,1,5,43,75,8.0,Partial,IED,No
+OP-1188,Mountain,Clear,Dusk,10,259,0.88,0,10,23,71,6.7,Success,IED,No
+OP-1189,Jungle,Clear,Night,18,150,1.66,1,8,9,71,6.8,Success,Ambush,No
+OP-1190,Desert,Clear,Night,30,487,1.69,1,6,56,36,4.2,Success,Direct Assault,No
+OP-1191,Jungle,Clear,Night,28,468,2.93,0,5,46,155,18.7,Failure,IED,Yes
+OP-1192,Jungle,Rain,Dusk,29,445,2.87,1,8,49,76,7.8,Partial,IED,No
+OP-1193,Plains,Storm,Day,13,299,0.69,1,9,37,80,3.6,Success,Ambush,No
+OP-1194,Mountain,Rain,Dusk,29,166,2.67,1,2,38,15,13.1,Failure,Ambush,Yes
+OP-1195,Urban,Clear,Day,18,527,0.96,1,5,55,105,9.0,Partial,IED,No
+OP-1196,Mountain,Fog,Day,30,332,1.28,1,1,56,40,9.0,Partial,Ambush,No
+OP-1197,Urban,Rain,Day,11,314,0.66,1,3,19,141,9.2,Partial,Direct Assault,No
+OP-1198,Jungle,Clear,Night,27,504,0.32,0,10,12,86,6.1,Success,Ambush,No
+OP-1199,Plains,Clear,Dusk,28,384,2.61,0,6,20,173,15.0,Failure,Direct Assault,Yes
+OP-1200,Plains,Clear,Day,9,198,1.0,0,4,32,171,10.6,Failure,Direct Assault,Yes
+OP-1201,Mountain,Fog,Night,12,182,2.9,0,1,48,81,16.6,Failure,IED,Yes
+OP-1202,Jungle,Clear,Day,27,84,2.58,1,3,59,10,10.7,Failure,Ambush,Yes
+OP-1203,Jungle,Clear,Day,18,389,1.59,0,3,26,19,8.3,Partial,Ambush,No
+OP-1204,Mountain,Storm,Night,30,80,1.02,1,6,12,172,14.3,Failure,Ambush,Yes
+OP-1205,Urban,Storm,Day,9,120,2.6,1,5,27,61,11.5,Failure,IED,Yes
+OP-1206,Plains,Clear,Day,1,125,2.96,0,7,40,179,14.0,Failure,Indirect Fire,Yes
+OP-1207,Plains,Rain,Night,25,311,0.69,0,9,19,14,2.1,Success,Direct Assault,No
+OP-1208,Urban,Clear,Day,21,483,0.93,1,7,30,18,3.0,Success,IED,No
+OP-1209,Jungle,Clear,Night,8,413,1.58,1,2,38,123,11.6,Failure,Ambush,Yes
+OP-1210,Plains,Storm,Day,26,299,1.46,0,10,52,152,12.0,Failure,Direct Assault,Yes
+OP-1211,Mountain,Clear,Night,22,175,2.17,1,5,19,56,10.5,Partial,Direct Assault,Yes
+OP-1212,Jungle,Fog,Dusk,26,158,2.22,1,1,21,120,14.3,Failure,Ambush,Yes
+OP-1213,Jungle,Clear,Night,24,290,2.05,1,7,40,114,10.6,Partial,Ambush,Yes
+OP-1214,Plains,Rain,Day,14,173,2.83,0,2,8,25,12.6,Failure,Direct Assault,Yes
+OP-1215,Mountain,Storm,Day,16,475,1.19,1,3,15,161,14.0,Failure,Ambush,Yes
+OP-1216,Desert,Fog,Dusk,24,210,0.88,1,5,57,87,7.3,Success,IED,No
+OP-1217,Jungle,Clear,Night,6,224,0.63,1,10,44,132,3.2,Success,Ambush,No
+OP-1218,Desert,Fog,Night,4,399,2.49,1,5,43,154,14.6,Failure,Direct Assault,Yes
+OP-1219,Desert,Clear,Day,6,530,2.31,0,6,16,143,14.9,Failure,Ambush,Yes
+OP-1220,Jungle,Rain,Night,9,157,2.96,1,2,11,33,11.4,Failure,Ambush,Yes
+OP-1221,Plains,Storm,Dusk,10,600,0.79,0,7,23,93,4.7,Success,IED,No
+OP-1222,Plains,Clear,Day,5,366,2.9,1,6,29,28,6.9,Success,Ambush,No
+OP-1223,Desert,Clear,Day,12,242,2.97,1,6,40,115,8.7,Partial,IED,No
+OP-1224,Jungle,Clear,Night,11,55,2.09,1,6,19,69,8.0,Partial,Ambush,No
+OP-1225,Desert,Clear,Dusk,28,577,1.17,1,7,19,120,6.2,Success,Ambush,No
+OP-1226,Jungle,Fog,Dusk,26,338,2.74,0,1,12,48,15.9,Failure,IED,Yes
+OP-1227,Urban,Clear,Day,26,266,1.8,1,9,39,127,9.2,Success,IED,No
+OP-1228,Jungle,Clear,Dusk,29,483,1.94,1,4,25,113,11.5,Failure,IED,Yes
+OP-1229,Jungle,Clear,Day,8,464,1.25,1,3,35,90,6.1,Success,Ambush,No
+OP-1230,Mountain,Clear,Dusk,12,59,0.8,1,5,32,165,9.6,Partial,Indirect Fire,No
+OP-1231,Mountain,Clear,Day,6,45,2.62,1,10,39,124,8.9,Success,Direct Assault,No
+OP-1232,Urban,Clear,Night,6,320,2.55,1,3,45,18,8.9,Partial,Direct Assault,No
+OP-1233,Desert,Fog,Day,3,581,2.01,1,9,60,23,2.3,Success,Direct Assault,No
+OP-1234,Mountain,Rain,Day,25,566,2.04,1,7,19,38,9.3,Partial,Ambush,No
+OP-1235,Plains,Clear,Day,4,88,1.82,1,3,5,127,10.2,Partial,Direct Assault,Yes
+OP-1236,Plains,Clear,Day,19,273,2.13,0,8,49,70,7.8,Success,Direct Assault,No
+OP-1237,Urban,Clear,Night,23,255,0.39,1,9,4,122,6.6,Success,Ambush,No
+OP-1238,Plains,Rain,Day,24,122,1.71,1,7,19,82,5.4,Success,IED,No
+OP-1239,Desert,Clear,Dusk,6,41,1.57,1,2,15,169,11.0,Failure,IED,Yes
+OP-1240,Plains,Clear,Dusk,28,206,2.5,1,10,4,81,11.5,Partial,Indirect Fire,Yes
+OP-1241,Plains,Clear,Day,13,178,1.47,1,10,24,132,4.3,Success,Direct Assault,No
+OP-1242,Urban,Fog,Night,19,275,1.04,0,5,4,107,12.3,Partial,Direct Assault,Yes
+OP-1243,Desert,Clear,Dusk,12,352,2.89,0,4,9,110,16.0,Failure,Ambush,Yes
+OP-1244,Plains,Clear,Day,11,57,0.94,0,5,37,106,5.6,Success,Direct Assault,No
+OP-1245,Jungle,Clear,Dusk,4,332,0.94,0,9,8,37,6.1,Success,Direct Assault,No
+OP-1246,Urban,Clear,Night,30,463,2.25,1,10,14,121,10.0,Partial,Ambush,Yes
+OP-1247,Jungle,Clear,Night,9,395,1.13,1,9,23,153,8.9,Partial,Ambush,No
+OP-1248,Jungle,Clear,Night,8,514,0.65,0,5,37,70,6.4,Success,Ambush,No
+OP-1249,Mountain,Storm,Dusk,9,522,1.53,0,9,30,76,9.6,Partial,Indirect Fire,No
+OP-1250,Urban,Fog,Day,10,597,2.58,1,6,60,145,15.0,Failure,Ambush,Yes
+OP-1251,Plains,Clear,Day,9,471,1.27,1,5,44,145,6.5,Success,Direct Assault,No
+OP-1252,Desert,Clear,Night,17,339,2.93,1,6,51,83,10.3,Partial,IED,Yes
+OP-1253,Urban,Clear,Night,11,454,1.68,1,8,30,39,3.5,Success,IED,No
+OP-1254,Mountain,Fog,Night,23,549,2.39,0,2,51,116,14.2,Failure,Ambush,Yes
+OP-1255,Jungle,Clear,Day,30,213,0.44,0,10,15,10,3.1,Success,Direct Assault,No
+OP-1256,Plains,Rain,Day,21,44,1.3,0,10,3,130,9.0,Partial,Indirect Fire,No
+OP-1257,Desert,Clear,Night,11,466,0.47,0,3,16,68,3.7,Success,IED,No
+OP-1258,Jungle,Rain,Night,19,541,0.66,1,10,56,90,3.2,Success,Ambush,No
+OP-1259,Urban,Clear,Night,26,299,0.75,1,7,15,131,6.6,Success,Ambush,No
+OP-1260,Mountain,Fog,Day,9,103,2.09,1,1,39,72,11.8,Failure,Ambush,Yes
+OP-1261,Plains,Storm,Day,3,392,1.58,1,2,39,38,5.1,Success,Direct Assault,No
+OP-1262,Plains,Rain,Night,26,93,1.23,1,8,25,126,4.8,Partial,Ambush,No
+OP-1263,Desert,Clear,Night,26,127,1.84,1,7,28,156,9.4,Success,Indirect Fire,No
+OP-1264,Plains,Fog,Dusk,12,171,1.85,1,4,28,58,8.5,Partial,IED,No
+OP-1265,Urban,Clear,Day,13,170,2.51,1,5,33,11,9.0,Partial,Ambush,No
+OP-1266,Mountain,Rain,Night,29,321,2.01,1,9,53,175,11.4,Partial,Direct Assault,Yes
+OP-1267,Urban,Clear,Day,15,494,1.5,1,5,0,27,8.0,Success,IED,No
+OP-1268,Jungle,Rain,Day,25,328,2.21,0,9,31,126,15.0,Failure,Ambush,Yes
+OP-1269,Plains,Storm,Night,21,291,2.9,1,5,51,96,12.6,Failure,IED,Yes
+OP-1270,Jungle,Rain,Night,11,589,1.84,1,2,21,13,8.6,Partial,Ambush,No
+OP-1271,Urban,Fog,Dusk,17,542,1.9,0,7,43,54,10.9,Partial,Ambush,Yes
+OP-1272,Plains,Fog,Day,7,63,2.25,0,3,28,58,10.3,Partial,Direct Assault,Yes
+OP-1273,Desert,Clear,Night,20,142,2.93,1,3,51,177,19.0,Failure,Direct Assault,Yes
+OP-1274,Urban,Clear,Night,14,377,1.59,0,1,12,75,12.4,Partial,Ambush,Yes
+OP-1275,Jungle,Rain,Day,27,284,0.93,0,6,42,92,10.3,Partial,Ambush,Yes
+OP-1276,Desert,Fog,Day,14,377,2.26,0,5,4,56,10.2,Partial,Indirect Fire,Yes
+OP-1277,Desert,Rain,Day,18,438,2.81,0,7,53,118,14.8,Failure,IED,Yes
+OP-1278,Plains,Clear,Day,9,498,0.77,0,3,4,34,4.8,Success,Indirect Fire,No
+OP-1279,Plains,Clear,Night,10,575,1.05,1,9,0,43,2.5,Success,Direct Assault,No
+OP-1280,Mountain,Fog,Day,11,378,1.85,0,7,51,105,10.7,Success,Direct Assault,Yes
+OP-1281,Mountain,Storm,Day,3,280,0.38,1,2,10,61,6.5,Success,Direct Assault,No
+OP-1282,Jungle,Clear,Night,3,375,1.55,0,1,33,47,9.7,Failure,Ambush,No
+OP-1283,Plains,Rain,Day,9,472,1.58,1,3,50,116,10.0,Failure,Indirect Fire,Yes
+OP-1284,Mountain,Storm,Dusk,19,522,0.48,0,1,13,98,11.2,Partial,Indirect Fire,Yes
+OP-1285,Desert,Rain,Dusk,29,572,2.39,0,3,11,93,15.3,Failure,Direct Assault,Yes
+OP-1286,Plains,Storm,Night,5,266,0.42,1,6,36,58,0.8,Success,Ambush,No
+OP-1287,Plains,Clear,Day,19,483,2.51,1,4,6,87,10.3,Failure,Direct Assault,Yes
+OP-1288,Desert,Clear,Day,13,374,0.83,0,10,48,113,4.6,Success,Direct Assault,No
+OP-1289,Plains,Fog,Dusk,16,330,1.73,0,4,20,42,6.9,Partial,IED,No
+OP-1290,Desert,Clear,Day,7,116,0.99,0,9,12,169,9.8,Partial,IED,No
+OP-1291,Plains,Clear,Day,25,223,0.74,1,4,53,94,5.3,Partial,Direct Assault,No
+OP-1292,Jungle,Clear,Night,13,592,2.52,1,6,31,151,15.5,Failure,Direct Assault,Yes
+OP-1293,Urban,Rain,Day,14,532,2.14,0,4,22,10,9.5,Partial,IED,No
+OP-1294,Urban,Fog,Day,24,526,1.18,1,10,48,166,10.3,Partial,IED,Yes
+OP-1295,Urban,Rain,Night,12,173,0.82,1,7,24,147,12.1,Failure,Indirect Fire,Yes
+OP-1296,Desert,Clear,Day,10,503,1.59,0,2,9,150,14.3,Failure,IED,Yes
+OP-1297,Mountain,Clear,Night,4,556,2.35,0,5,20,163,14.2,Failure,Indirect Fire,Yes
+OP-1298,Mountain,Clear,Dusk,28,357,2.98,1,7,55,53,9.5,Failure,Ambush,No
+OP-1299,Jungle,Fog,Day,17,140,2.0,0,4,21,63,15.2,Failure,Ambush,Yes
+OP-1300,Desert,Clear,Night,13,101,2.97,1,7,43,150,11.8,Failure,Indirect Fire,Yes
+OP-1301,Jungle,Clear,Dusk,1,54,1.53,0,9,35,35,3.5,Success,Ambush,No
+OP-1302,Mountain,Clear,Night,1,491,0.88,1,3,16,46,5.2,Partial,Direct Assault,No
+OP-1303,Jungle,Clear,Day,23,523,2.73,0,6,30,65,11.9,Failure,Ambush,Yes
+OP-1304,Urban,Clear,Day,6,504,1.75,1,6,43,30,3.7,Success,Direct Assault,No
+OP-1305,Desert,Clear,Day,20,354,1.86,1,10,53,166,10.8,Partial,Direct Assault,Yes
+OP-1306,Desert,Clear,Day,27,353,2.87,0,3,15,66,14.1,Failure,Indirect Fire,Yes
+OP-1307,Mountain,Fog,Dusk,22,386,1.84,1,5,12,137,12.6,Failure,Direct Assault,Yes
+OP-1308,Desert,Storm,Day,1,237,1.23,1,3,18,30,5.9,Success,Indirect Fire,No
+OP-1309,Jungle,Storm,Day,11,178,1.84,0,3,60,153,18.4,Failure,Ambush,Yes
+OP-1310,Urban,Rain,Day,15,157,0.32,1,2,35,65,4.6,Partial,Indirect Fire,No
+OP-1311,Plains,Rain,Day,10,64,2.13,1,2,12,33,7.2,Partial,Direct Assault,No
+OP-1312,Mountain,Rain,Day,8,277,1.05,0,3,10,176,13.6,Failure,Ambush,Yes
+OP-1313,Urban,Rain,Day,18,420,0.91,1,7,56,157,9.5,Partial,IED,No
+OP-1314,Jungle,Clear,Day,7,477,1.17,0,1,15,152,13.8,Failure,Indirect Fire,Yes
+OP-1315,Mountain,Clear,Night,19,301,2.25,1,2,34,109,12.9,Failure,Ambush,Yes
+OP-1316,Plains,Clear,Day,4,133,0.33,1,1,46,163,5.4,Success,Direct Assault,No
+OP-1317,Desert,Rain,Night,4,217,2.3,0,5,11,50,9.6,Partial,Ambush,No
+OP-1318,Urban,Clear,Day,11,204,0.6,0,9,9,173,10.3,Failure,IED,Yes
+OP-1319,Desert,Fog,Day,4,419,0.72,0,7,54,147,8.6,Success,IED,No
+OP-1320,Mountain,Clear,Day,12,161,2.54,1,8,50,31,6.9,Success,Ambush,No
+OP-1321,Urban,Clear,Day,3,238,1.15,1,7,34,109,6.1,Success,Direct Assault,No
+OP-1322,Jungle,Rain,Day,12,513,1.54,1,3,12,175,13.5,Failure,IED,Yes
+OP-1323,Urban,Clear,Night,22,498,2.11,0,7,5,63,11.1,Failure,IED,Yes
+OP-1324,Urban,Clear,Day,21,557,1.86,0,4,21,101,12.4,Partial,Ambush,Yes
+OP-1325,Plains,Rain,Day,28,75,0.42,1,10,49,143,3.7,Success,Direct Assault,No
+OP-1326,Desert,Rain,Day,21,208,1.19,1,6,39,158,9.6,Success,Direct Assault,No
+OP-1327,Plains,Fog,Dusk,3,297,2.59,0,6,41,74,8.6,Partial,Direct Assault,No
+OP-1328,Urban,Clear,Day,7,429,1.47,0,7,51,92,9.0,Partial,IED,No
+OP-1329,Mountain,Clear,Day,7,89,2.95,0,3,54,124,15.7,Failure,Indirect Fire,Yes
+OP-1330,Jungle,Fog,Day,30,242,1.5,1,9,11,102,9.8,Partial,IED,No
+OP-1331,Mountain,Clear,Day,6,330,2.78,1,8,31,75,9.5,Partial,Ambush,No
+OP-1332,Plains,Clear,Dusk,28,593,1.84,1,4,1,90,12.7,Failure,Direct Assault,Yes
+OP-1333,Plains,Fog,Night,29,447,0.66,0,6,18,35,5.1,Success,Direct Assault,No
+OP-1334,Desert,Storm,Day,5,266,2.03,1,6,22,11,7.2,Partial,Direct Assault,No
+OP-1335,Urban,Fog,Day,29,195,2.33,1,10,57,21,8.4,Partial,IED,No
+OP-1336,Desert,Clear,Day,8,151,2.28,0,9,56,53,5.9,Success,Indirect Fire,No
+OP-1337,Jungle,Clear,Day,9,115,1.97,1,5,49,92,7.9,Partial,Ambush,No
+OP-1338,Urban,Fog,Night,30,461,0.94,0,4,3,79,13.8,Failure,Ambush,Yes
+OP-1339,Jungle,Clear,Dusk,5,275,2.97,0,8,56,52,11.1,Partial,Ambush,Yes
+OP-1340,Jungle,Rain,Day,11,536,2.31,1,6,27,77,12.1,Failure,Direct Assault,Yes
+OP-1341,Desert,Rain,Day,5,76,0.79,0,6,2,44,7.3,Partial,Indirect Fire,No
+OP-1342,Plains,Clear,Day,27,577,2.11,0,10,28,80,8.1,Success,Direct Assault,No
+OP-1343,Desert,Clear,Day,19,53,2.43,0,1,55,155,15.0,Failure,Indirect Fire,Yes
+OP-1344,Jungle,Clear,Day,19,96,2.23,1,9,38,129,11.0,Failure,Indirect Fire,Yes
+OP-1345,Mountain,Fog,Night,29,245,2.79,0,7,19,45,13.5,Failure,Indirect Fire,Yes
+OP-1346,Jungle,Clear,Day,22,386,2.81,0,3,25,41,12.2,Failure,IED,Yes
+OP-1347,Plains,Clear,Night,21,512,2.52,1,10,44,21,4.9,Success,Direct Assault,No
+OP-1348,Jungle,Clear,Day,24,594,1.74,1,5,43,137,12.3,Success,IED,Yes
+OP-1349,Mountain,Clear,Day,11,245,0.62,1,10,4,89,2.7,Success,Ambush,No
+OP-1350,Urban,Rain,Dusk,8,158,0.7,0,2,47,78,8.6,Partial,Ambush,No
+OP-1351,Jungle,Rain,Day,21,383,0.89,1,5,57,77,6.1,Success,Direct Assault,No
+OP-1352,Mountain,Clear,Dusk,5,196,2.18,0,6,2,80,10.1,Partial,Direct Assault,Yes
+OP-1353,Jungle,Rain,Night,14,497,1.26,1,8,60,177,8.7,Partial,Ambush,No
+OP-1354,Mountain,Storm,Night,28,290,0.86,1,3,52,161,12.7,Failure,Ambush,Yes
+OP-1355,Desert,Rain,Night,16,472,2.44,1,10,54,35,5.2,Success,IED,No
+OP-1356,Jungle,Storm,Day,15,213,2.0,1,4,51,93,10.0,Success,Ambush,Yes
+OP-1357,Plains,Fog,Day,4,532,2.51,0,2,9,66,12.6,Failure,Direct Assault,Yes
+OP-1358,Desert,Clear,Dusk,23,541,2.54,0,8,6,58,9.8,Partial,Ambush,No
+OP-1359,Desert,Clear,Dusk,29,275,0.42,1,6,51,150,6.8,Success,Indirect Fire,No
+OP-1360,Desert,Clear,Night,2,98,1.74,1,9,11,96,7.1,Success,Ambush,No
+OP-1361,Desert,Storm,Day,14,510,2.45,1,1,53,10,8.4,Failure,IED,No
+OP-1362,Jungle,Clear,Day,29,294,2.67,1,1,24,155,18.4,Failure,Direct Assault,Yes
+OP-1363,Desert,Clear,Night,25,235,2.08,1,10,18,99,8.1,Success,Ambush,No
+OP-1364,Jungle,Storm,Day,26,100,2.35,1,4,34,51,11.0,Partial,Ambush,Yes
+OP-1365,Plains,Clear,Day,25,394,2.89,1,3,49,27,9.0,Failure,Direct Assault,No
+OP-1366,Jungle,Fog,Day,26,365,2.15,1,1,30,138,16.2,Failure,IED,Yes
+OP-1367,Desert,Storm,Dusk,17,459,2.78,1,7,1,155,12.7,Failure,Indirect Fire,Yes
+OP-1368,Jungle,Rain,Day,18,204,1.25,0,2,25,88,14.0,Failure,Ambush,Yes
+OP-1369,Jungle,Fog,Dusk,30,399,2.78,0,10,6,130,15.6,Failure,IED,Yes
+OP-1370,Desert,Rain,Dusk,19,398,1.18,1,2,29,109,7.6,Partial,Indirect Fire,No
+OP-1371,Plains,Clear,Day,15,298,0.83,1,1,36,115,6.8,Partial,Direct Assault,No
+OP-1372,Jungle,Fog,Dusk,11,41,1.73,1,9,35,178,10.8,Partial,Ambush,Yes
+OP-1373,Mountain,Fog,Night,16,340,1.9,1,3,56,124,12.3,Partial,Indirect Fire,Yes
+OP-1374,Urban,Fog,Day,26,537,1.23,0,4,47,55,10.5,Failure,Ambush,Yes
+OP-1375,Urban,Clear,Day,21,62,2.47,1,3,2,123,17.3,Failure,Direct Assault,Yes
+OP-1376,Desert,Clear,Night,29,234,0.8,1,6,55,17,0.7,Success,IED,No
+OP-1377,Jungle,Clear,Night,28,197,0.8,0,8,19,92,7.6,Success,Ambush,No
+OP-1378,Jungle,Clear,Day,6,598,1.5,1,7,50,127,10.2,Success,Ambush,Yes
+OP-1379,Urban,Rain,Night,10,363,0.33,1,8,3,132,5.5,Success,Ambush,No
+OP-1380,Plains,Clear,Dusk,21,539,2.56,0,4,22,131,16.4,Failure,Indirect Fire,Yes
+OP-1381,Mountain,Clear,Day,13,259,1.27,1,7,14,165,11.0,Partial,Direct Assault,Yes
+OP-1382,Plains,Clear,Night,24,128,2.22,0,6,41,119,13.2,Failure,IED,Yes
+OP-1383,Desert,Rain,Night,28,210,2.74,0,4,14,177,19.3,Failure,Indirect Fire,Yes
+OP-1384,Jungle,Clear,Day,22,248,0.3,0,8,47,168,8.3,Partial,IED,No
+OP-1385,Mountain,Rain,Day,30,174,2.21,1,3,60,112,12.3,Failure,Ambush,Yes
+OP-1386,Mountain,Rain,Night,6,87,2.36,0,6,15,42,11.2,Partial,Ambush,Yes
+OP-1387,Plains,Clear,Night,24,213,2.64,1,8,37,127,8.2,Partial,Direct Assault,No
+OP-1388,Urban,Clear,Day,8,341,1.39,0,2,1,26,9.0,Failure,Direct Assault,No
+OP-1389,Urban,Clear,Day,2,411,2.18,0,2,39,152,17.2,Failure,Direct Assault,Yes
+OP-1390,Plains,Storm,Dusk,19,391,0.49,0,4,27,49,5.2,Success,Direct Assault,No
+OP-1391,Desert,Rain,Day,20,181,2.03,1,9,43,133,8.9,Success,Direct Assault,No
+OP-1392,Desert,Rain,Night,25,248,0.66,1,5,5,176,10.8,Failure,IED,Yes
+OP-1393,Jungle,Fog,Day,28,64,1.7,1,4,6,18,8.2,Partial,IED,No
+OP-1394,Desert,Rain,Day,5,64,0.78,1,8,37,87,2.5,Success,Direct Assault,No
+OP-1395,Desert,Clear,Day,10,454,1.42,1,6,18,135,7.8,Partial,Direct Assault,No
+OP-1396,Urban,Clear,Dusk,28,263,0.77,0,6,42,116,11.0,Failure,IED,Yes
+OP-1397,Desert,Clear,Dusk,30,230,1.17,0,7,45,12,4.9,Success,IED,No
+OP-1398,Desert,Fog,Day,29,537,1.35,1,7,3,67,7.6,Success,IED,No
+OP-1399,Jungle,Clear,Dusk,11,402,1.6,0,10,36,171,11.8,Partial,Ambush,Yes
+OP-1400,Desert,Clear,Night,5,176,0.4,1,4,17,20,1.2,Success,Ambush,No
+OP-1401,Plains,Clear,Night,24,293,2.56,0,5,15,66,12.7,Failure,Ambush,Yes
+OP-1402,Desert,Clear,Day,14,522,2.94,0,6,7,68,13.8,Failure,IED,Yes
+OP-1403,Desert,Fog,Day,7,358,1.15,0,9,26,54,3.3,Success,IED,No
+OP-1404,Mountain,Clear,Night,22,120,1.41,1,4,16,49,8.5,Failure,Indirect Fire,No
+OP-1405,Urban,Fog,Night,10,114,2.25,0,7,40,133,14.2,Failure,IED,Yes
+OP-1406,Plains,Clear,Day,12,471,0.78,1,6,44,113,2.2,Success,Direct Assault,No
+OP-1407,Plains,Clear,Night,30,419,0.58,1,7,60,146,5.9,Success,Ambush,No
+OP-1408,Desert,Storm,Dusk,26,296,1.61,1,8,6,124,9.0,Success,Direct Assault,No
+OP-1409,Plains,Clear,Day,23,439,2.3,1,1,25,105,12.2,Failure,Ambush,Yes
+OP-1410,Urban,Rain,Day,25,518,0.5,0,2,1,59,13.2,Failure,IED,Yes
+OP-1411,Jungle,Fog,Dusk,17,389,2.1,1,2,30,175,17.1,Failure,Ambush,Yes
+OP-1412,Jungle,Rain,Dusk,11,177,2.28,0,6,19,50,12.8,Failure,IED,Yes
+OP-1413,Mountain,Rain,Day,28,175,2.64,0,5,29,98,17.0,Failure,Direct Assault,Yes
+OP-1414,Plains,Clear,Night,10,461,0.68,0,9,54,47,0.2,Success,Direct Assault,No
+OP-1415,Desert,Fog,Night,20,235,1.12,1,3,53,140,9.4,Partial,IED,No
+OP-1416,Jungle,Rain,Night,24,326,1.03,0,4,41,51,9.6,Partial,IED,No
+OP-1417,Plains,Fog,Night,19,538,1.16,0,4,60,44,6.3,Partial,Direct Assault,No
+OP-1418,Plains,Rain,Dusk,14,368,1.94,1,1,47,118,9.3,Partial,Direct Assault,No
+OP-1419,Urban,Clear,Night,9,46,2.13,0,6,45,172,14.3,Failure,IED,Yes
+OP-1420,Mountain,Clear,Night,23,40,0.48,1,2,14,96,7.3,Partial,Ambush,No
+OP-1421,Mountain,Clear,Day,16,177,2.66,1,10,55,123,11.1,Partial,Indirect Fire,Yes
+OP-1422,Mountain,Clear,Day,24,177,2.01,0,4,40,114,15.4,Failure,Indirect Fire,Yes
+OP-1423,Plains,Storm,Day,20,96,2.27,1,7,43,44,7.7,Success,IED,No
+OP-1424,Mountain,Clear,Night,19,483,0.77,1,9,28,97,4.1,Success,Ambush,No
+OP-1425,Urban,Clear,Night,10,281,2.52,0,4,59,117,14.9,Failure,IED,Yes
+OP-1426,Desert,Clear,Day,24,387,1.05,1,5,20,179,10.1,Failure,IED,Yes
+OP-1427,Desert,Clear,Night,7,523,2.39,0,6,18,130,10.5,Partial,Indirect Fire,Yes
+OP-1428,Plains,Rain,Day,11,138,0.99,0,4,5,108,9.1,Partial,Direct Assault,No
+OP-1429,Jungle,Clear,Night,14,148,0.9,1,7,9,24,2.7,Success,Ambush,No
+OP-1430,Desert,Fog,Dusk,3,511,0.69,0,6,56,73,6.2,Success,Ambush,No
+OP-1431,Mountain,Clear,Day,16,367,1.87,1,10,26,143,9.5,Success,Ambush,No
+OP-1432,Mountain,Fog,Day,7,332,1.36,1,3,47,103,10.0,Partial,Ambush,Yes
+OP-1433,Jungle,Clear,Day,18,577,1.92,1,5,3,55,9.2,Partial,Ambush,No
+OP-1434,Jungle,Clear,Dusk,3,198,1.75,0,8,38,121,10.0,Partial,IED,Yes
+OP-1435,Plains,Clear,Day,30,334,1.58,1,10,3,118,6.2,Success,Direct Assault,No
+OP-1436,Jungle,Rain,Day,27,546,1.54,1,9,42,164,13.8,Partial,Indirect Fire,Yes
+OP-1437,Jungle,Clear,Dusk,9,435,2.11,0,8,58,110,11.3,Failure,Direct Assault,Yes
+OP-1438,Urban,Fog,Day,30,86,1.63,0,7,53,130,12.9,Failure,Ambush,Yes
+OP-1439,Plains,Fog,Day,18,511,0.66,1,4,26,175,7.7,Partial,Direct Assault,No
+OP-1440,Mountain,Rain,Night,5,426,1.39,1,7,12,129,8.9,Partial,Ambush,No
+OP-1441,Plains,Storm,Day,4,99,0.3,1,2,9,149,9.2,Partial,Direct Assault,No
+OP-1442,Jungle,Fog,Night,2,251,1.05,0,5,20,21,6.8,Partial,Ambush,No
+OP-1443,Mountain,Clear,Dusk,8,88,1.47,1,5,19,104,10.5,Partial,Direct Assault,Yes
+OP-1444,Urban,Clear,Night,19,455,2.96,1,7,59,147,14.3,Failure,Indirect Fire,Yes
+OP-1445,Mountain,Clear,Day,23,371,2.37,1,5,24,128,14.6,Partial,Ambush,Yes
+OP-1446,Desert,Clear,Day,23,208,0.92,0,9,21,125,7.2,Success,Direct Assault,No
+OP-1447,Urban,Storm,Night,25,128,2.17,1,3,29,156,16.9,Failure,Ambush,Yes
+OP-1448,Plains,Storm,Night,29,108,1.27,0,6,2,34,8.9,Success,Direct Assault,No
+OP-1449,Desert,Rain,Dusk,27,193,1.33,0,10,6,84,6.9,Success,Indirect Fire,No
+OP-1450,Jungle,Fog,Dusk,25,275,0.56,1,6,17,21,6.2,Partial,Direct Assault,No
+OP-1451,Desert,Rain,Dusk,27,511,1.08,0,6,22,142,10.0,Partial,Indirect Fire,Yes
+OP-1452,Urban,Storm,Night,14,455,0.98,1,5,48,54,6.9,Success,Indirect Fire,No
+OP-1453,Jungle,Clear,Day,4,289,1.48,0,9,37,175,12.2,Partial,Indirect Fire,Yes
+OP-1454,Jungle,Clear,Day,28,87,2.84,1,6,60,146,14.0,Failure,Direct Assault,Yes
+OP-1455,Urban,Clear,Day,4,544,1.51,0,2,56,107,11.5,Failure,IED,Yes
+OP-1456,Jungle,Clear,Night,21,570,2.5,1,4,20,25,9.1,Partial,Ambush,No
+OP-1457,Urban,Clear,Day,22,82,1.03,1,8,1,27,4.6,Success,IED,No
+OP-1458,Desert,Fog,Night,21,428,0.64,1,9,50,17,0.2,Success,IED,No
+OP-1459,Plains,Rain,Day,9,415,2.78,1,4,43,127,12.9,Partial,Ambush,Yes
+OP-1460,Plains,Fog,Night,21,337,2.51,0,4,23,60,12.2,Failure,Ambush,Yes
+OP-1461,Jungle,Clear,Night,4,595,2.75,0,9,29,132,13.1,Failure,Ambush,Yes
+OP-1462,Urban,Clear,Night,25,172,0.75,0,6,15,144,12.9,Failure,Indirect Fire,Yes
+OP-1463,Urban,Rain,Night,24,185,2.61,1,1,40,50,14.8,Failure,Ambush,Yes
+OP-1464,Jungle,Fog,Day,10,487,1.34,0,6,38,115,11.9,Failure,IED,Yes
+OP-1465,Urban,Rain,Night,30,166,2.0,1,9,60,107,8.9,Partial,IED,No
+OP-1466,Jungle,Rain,Dusk,24,222,0.61,1,9,23,100,6.0,Success,Indirect Fire,No
+OP-1467,Desert,Rain,Day,8,210,1.21,1,6,49,40,1.9,Success,Indirect Fire,No
+OP-1468,Plains,Clear,Day,17,164,2.16,0,3,53,54,9.4,Partial,Direct Assault,No
+OP-1469,Desert,Storm,Night,10,223,2.46,0,5,35,37,10.1,Failure,IED,Yes
+OP-1470,Mountain,Clear,Day,28,313,2.92,0,4,52,49,15.5,Failure,Ambush,Yes
+OP-1471,Plains,Clear,Day,19,574,2.05,1,5,41,80,7.0,Partial,Indirect Fire,No
+OP-1472,Jungle,Fog,Dusk,15,369,2.95,0,1,10,14,15.1,Failure,IED,Yes
+OP-1473,Jungle,Fog,Day,8,397,0.35,0,10,42,77,5.9,Success,Ambush,No
+OP-1474,Urban,Clear,Day,13,535,0.34,1,1,30,12,2.9,Success,IED,No
+OP-1475,Jungle,Rain,Dusk,16,165,2.42,1,1,24,91,12.2,Partial,IED,Yes
+OP-1476,Jungle,Clear,Day,25,357,0.49,1,10,29,173,6.7,Success,Ambush,No
+OP-1477,Mountain,Rain,Day,21,126,2.32,0,1,7,75,19.3,Failure,Ambush,Yes
+OP-1478,Urban,Clear,Day,14,194,2.47,1,3,57,103,12.9,Partial,Direct Assault,Yes
+OP-1479,Desert,Fog,Night,3,495,1.8,0,9,23,83,6.0,Success,Indirect Fire,No
+OP-1480,Jungle,Clear,Night,1,91,2.31,0,8,45,55,7.3,Success,Ambush,No
+OP-1481,Plains,Fog,Night,13,425,0.43,1,4,36,34,0.2,Success,Ambush,No
+OP-1482,Plains,Clear,Day,1,371,1.29,0,2,36,47,6.9,Partial,IED,No
+OP-1483,Jungle,Storm,Day,9,199,0.87,0,2,39,38,8.3,Partial,Ambush,No
+OP-1484,Jungle,Clear,Day,6,304,0.97,1,6,0,168,9.2,Success,IED,No
+OP-1485,Desert,Fog,Day,4,400,2.76,1,5,23,69,9.7,Success,Indirect Fire,No
+OP-1486,Mountain,Clear,Day,18,579,1.92,0,5,18,44,9.6,Partial,Direct Assault,No
+OP-1487,Plains,Rain,Night,29,372,2.48,1,3,25,80,11.6,Failure,Direct Assault,Yes
+OP-1488,Desert,Clear,Day,16,399,2.17,0,10,36,93,10.5,Partial,IED,Yes
+OP-1489,Jungle,Fog,Day,25,307,1.94,1,7,30,31,6.1,Success,Direct Assault,No
+OP-1490,Jungle,Clear,Night,4,285,2.37,0,5,12,100,15.0,Failure,Ambush,Yes
+OP-1491,Jungle,Clear,Day,17,103,0.46,0,10,25,170,10.7,Failure,Direct Assault,Yes
+OP-1492,Urban,Fog,Night,30,503,1.03,0,9,33,16,6.7,Success,Ambush,No
+OP-1493,Mountain,Clear,Day,26,81,2.5,1,8,33,157,10.4,Partial,Ambush,Yes
+OP-1494,Jungle,Fog,Dusk,25,553,2.96,1,2,2,178,21.3,Failure,Ambush,Yes
+OP-1495,Jungle,Clear,Night,28,548,2.61,0,2,51,29,15.1,Failure,IED,Yes
+OP-1496,Mountain,Clear,Day,7,173,1.73,1,5,60,122,8.9,Partial,IED,No
+OP-1497,Jungle,Clear,Dusk,12,564,2.86,0,10,17,175,17.0,Failure,Ambush,Yes
+OP-1498,Plains,Fog,Dusk,15,274,1.93,1,3,52,111,7.6,Partial,Direct Assault,No
+OP-1499,Mountain,Fog,Day,14,313,1.36,0,1,40,37,12.2,Failure,Ambush,Yes
+OP-1500,Plains,Fog,Day,1,492,1.79,0,5,31,13,5.8,Success,Direct Assault,No
+OP-1501,Desert,Rain,Day,21,165,2.23,1,9,60,166,8.6,Partial,Indirect Fire,No
+OP-1502,Desert,Clear,Day,30,198,2.05,0,3,1,49,9.8,Failure,Indirect Fire,No
+OP-1503,Urban,Storm,Day,20,410,1.47,1,6,51,151,11.7,Failure,IED,Yes
+OP-1504,Plains,Rain,Day,28,309,0.73,1,6,37,107,5.3,Success,Direct Assault,No
+OP-1505,Desert,Clear,Dusk,21,563,2.16,0,1,25,52,9.5,Partial,IED,No
+OP-1506,Jungle,Storm,Day,7,159,2.4,1,10,31,110,11.8,Partial,Ambush,Yes
+OP-1507,Urban,Clear,Day,5,47,0.67,1,7,14,76,5.9,Success,Ambush,No
+OP-1508,Jungle,Clear,Night,1,105,2.29,1,6,41,54,4.8,Success,IED,No
+OP-1509,Mountain,Rain,Night,3,550,0.99,1,8,60,95,4.7,Success,Direct Assault,No
+OP-1510,Urban,Clear,Day,30,582,2.8,0,8,4,173,21.2,Failure,IED,Yes
+OP-1511,Mountain,Rain,Day,23,204,1.95,0,5,24,50,12.7,Failure,Direct Assault,Yes
+OP-1512,Mountain,Clear,Day,2,104,1.52,0,1,43,127,14.8,Failure,Ambush,Yes
+OP-1513,Urban,Fog,Dusk,1,473,2.49,0,5,37,41,9.8,Success,Ambush,No
+OP-1514,Mountain,Fog,Day,12,439,1.91,1,10,54,111,10.1,Partial,Ambush,Yes
+OP-1515,Plains,Clear,Day,25,509,1.56,0,6,21,25,6.2,Success,Direct Assault,No
+OP-1516,Desert,Rain,Night,5,136,1.41,0,2,3,40,6.9,Partial,Direct Assault,No
+OP-1517,Desert,Clear,Day,11,492,2.08,0,6,32,90,9.6,Partial,IED,No
+OP-1518,Mountain,Clear,Day,25,313,1.23,0,4,56,34,7.7,Partial,Indirect Fire,No
+OP-1519,Desert,Clear,Dusk,6,388,2.04,1,9,52,132,7.7,Success,Direct Assault,No
+OP-1520,Mountain,Fog,Night,8,235,2.76,1,4,39,110,16.5,Failure,Ambush,Yes
+OP-1521,Jungle,Clear,Dusk,26,504,0.44,1,2,2,50,3.1,Success,Ambush,No
+OP-1522,Jungle,Clear,Night,16,130,2.35,1,6,43,86,9.0,Partial,IED,No
+OP-1523,Plains,Fog,Dusk,27,355,0.83,0,1,18,43,9.8,Failure,Indirect Fire,No
+OP-1524,Urban,Fog,Night,25,276,2.38,0,6,38,123,17.6,Failure,Ambush,Yes
+OP-1525,Plains,Clear,Night,20,41,1.41,1,10,32,59,3.2,Success,Direct Assault,No
+OP-1526,Plains,Clear,Dusk,23,251,2.7,1,2,8,74,12.2,Failure,Direct Assault,Yes
+OP-1527,Mountain,Clear,Day,2,126,1.79,0,9,12,34,9.8,Partial,Direct Assault,No
+OP-1528,Mountain,Rain,Day,18,93,2.0,0,1,40,80,14.2,Failure,Direct Assault,Yes
+OP-1529,Desert,Clear,Day,22,435,0.87,0,9,52,35,2.4,Success,Direct Assault,No
+OP-1530,Plains,Clear,Day,19,552,1.53,0,8,31,50,6.5,Success,Direct Assault,No
+OP-1531,Desert,Fog,Day,8,522,2.82,0,9,31,103,11.3,Partial,Direct Assault,Yes
+OP-1532,Urban,Clear,Day,3,123,0.53,1,3,23,48,4.0,Success,Ambush,No
+OP-1533,Desert,Clear,Dusk,4,295,2.93,1,3,41,161,16.0,Failure,Indirect Fire,Yes
+OP-1534,Desert,Clear,Dusk,14,112,0.93,1,1,55,127,10.3,Failure,Direct Assault,Yes
+OP-1535,Urban,Clear,Night,19,266,1.15,1,3,28,123,11.9,Failure,IED,Yes
+OP-1536,Urban,Rain,Night,30,63,1.85,0,2,31,93,17.6,Failure,Ambush,Yes
+OP-1537,Plains,Clear,Day,24,102,1.54,1,7,0,43,6.7,Partial,Direct Assault,No
+OP-1538,Mountain,Clear,Night,25,205,2.02,1,5,18,163,14.6,Failure,Indirect Fire,Yes
+OP-1539,Mountain,Fog,Day,27,394,0.7,0,6,52,75,8.7,Partial,Direct Assault,No
+OP-1540,Mountain,Fog,Day,16,128,2.44,1,6,25,62,12.6,Partial,Direct Assault,Yes
+OP-1541,Mountain,Rain,Day,23,96,1.79,0,5,0,14,9.1,Partial,Direct Assault,No
+OP-1542,Urban,Clear,Day,5,486,0.93,0,7,50,81,7.3,Success,Indirect Fire,No
+OP-1543,Urban,Rain,Night,4,426,0.84,1,1,41,103,11.1,Failure,Ambush,Yes
+OP-1544,Desert,Storm,Dusk,21,71,2.21,1,6,43,18,9.0,Success,Direct Assault,No
+OP-1545,Mountain,Clear,Day,1,414,1.51,0,10,15,79,6.3,Success,Ambush,No
+OP-1546,Urban,Fog,Day,3,394,1.79,0,4,19,126,13.9,Failure,Direct Assault,Yes
+OP-1547,Jungle,Rain,Dusk,2,578,1.14,0,10,5,18,4.9,Success,Ambush,No
+OP-1548,Desert,Clear,Dusk,5,552,0.39,1,1,16,152,7.8,Partial,IED,No
+OP-1549,Urban,Clear,Night,23,579,0.75,0,9,19,56,4.9,Success,Direct Assault,No
+OP-1550,Plains,Fog,Day,6,70,2.99,0,6,17,127,14.2,Failure,Indirect Fire,Yes
+OP-1551,Jungle,Clear,Day,26,185,2.53,1,6,60,11,8.1,Partial,Indirect Fire,No
+OP-1552,Urban,Rain,Dusk,21,512,1.08,1,8,12,167,9.7,Partial,Indirect Fire,No
+OP-1553,Urban,Fog,Day,16,137,1.45,1,1,8,38,9.7,Partial,Ambush,No
+OP-1554,Urban,Clear,Day,27,298,2.92,0,1,3,90,18.7,Failure,Direct Assault,Yes
+OP-1555,Jungle,Clear,Night,14,261,1.77,1,4,49,180,12.1,Failure,Ambush,Yes
+OP-1556,Desert,Fog,Dusk,13,425,1.17,0,8,34,89,5.1,Success,IED,No
+OP-1557,Plains,Clear,Night,23,94,1.82,1,7,44,120,6.3,Success,Indirect Fire,No
+OP-1558,Plains,Clear,Day,10,197,1.49,1,10,16,169,8.2,Success,Direct Assault,No
+OP-1559,Plains,Clear,Night,22,121,2.74,1,5,56,77,11.5,Partial,Indirect Fire,Yes
+OP-1560,Jungle,Rain,Night,15,600,1.68,0,1,31,128,15.6,Failure,Indirect Fire,Yes
+OP-1561,Urban,Clear,Dusk,24,352,1.76,0,1,30,72,14.3,Failure,Ambush,Yes
+OP-1562,Plains,Clear,Dusk,13,485,2.19,1,8,8,85,12.0,Failure,Direct Assault,Yes
+OP-1563,Jungle,Fog,Day,27,341,0.71,1,9,1,58,5.4,Success,IED,No
+OP-1564,Urban,Storm,Night,29,290,1.57,0,7,24,41,8.9,Partial,Direct Assault,No
+OP-1565,Plains,Rain,Dusk,27,240,2.01,0,3,17,12,10.2,Failure,Indirect Fire,Yes
+OP-1566,Plains,Rain,Day,29,100,0.38,0,7,26,13,1.5,Success,Direct Assault,No
+OP-1567,Jungle,Fog,Day,23,57,2.79,0,6,46,98,16.4,Failure,IED,Yes
+OP-1568,Mountain,Clear,Day,21,101,0.48,0,8,56,148,11.0,Failure,Indirect Fire,Yes
+OP-1569,Mountain,Rain,Night,20,177,1.21,0,5,47,119,11.1,Failure,Ambush,Yes
+OP-1570,Plains,Storm,Day,12,325,1.27,1,1,18,119,10.6,Failure,Direct Assault,Yes
+OP-1571,Desert,Clear,Night,20,128,0.5,0,1,33,41,4.4,Success,IED,No
+OP-1572,Jungle,Rain,Dusk,26,547,1.77,0,9,10,126,12.8,Failure,IED,Yes
+OP-1573,Jungle,Clear,Day,6,72,2.97,1,5,31,64,9.4,Partial,Ambush,No
+OP-1574,Plains,Fog,Day,28,186,1.35,1,5,53,92,8.0,Success,Indirect Fire,No
+OP-1575,Jungle,Rain,Night,8,410,2.53,0,3,55,33,14.4,Failure,Indirect Fire,Yes
+OP-1576,Plains,Clear,Night,22,409,1.44,1,3,38,162,9.5,Failure,Direct Assault,No
+OP-1577,Plains,Clear,Night,17,139,0.76,1,3,1,91,5.4,Success,Ambush,No
+OP-1578,Jungle,Fog,Day,22,355,2.77,0,6,22,116,14.6,Failure,Ambush,Yes
+OP-1579,Mountain,Rain,Night,6,375,0.99,1,10,23,67,3.2,Success,Ambush,No
+OP-1580,Plains,Rain,Day,24,515,1.12,0,6,56,168,10.2,Failure,IED,Yes
+OP-1581,Desert,Fog,Night,30,183,2.17,0,5,25,31,11.3,Partial,IED,Yes
+OP-1582,Urban,Clear,Night,13,77,0.42,0,10,29,19,1.6,Success,Ambush,No
+OP-1583,Mountain,Fog,Night,22,154,1.18,1,6,25,33,6.5,Success,Indirect Fire,No
+OP-1584,Plains,Clear,Dusk,28,87,1.54,1,1,19,22,7.7,Partial,Direct Assault,No
+OP-1585,Desert,Fog,Day,10,359,0.88,0,4,45,12,6.8,Success,IED,No
+OP-1586,Urban,Storm,Day,26,376,1.86,0,9,29,40,11.2,Partial,Indirect Fire,Yes
+OP-1587,Urban,Storm,Night,26,501,1.09,0,10,46,73,8.9,Partial,Ambush,No
+OP-1588,Mountain,Rain,Day,14,480,2.3,0,2,4,72,14.3,Failure,Indirect Fire,Yes
+OP-1589,Urban,Fog,Day,7,423,2.7,0,8,8,132,17.5,Failure,IED,Yes
+OP-1590,Plains,Clear,Day,19,209,2.73,1,4,59,59,9.0,Partial,Ambush,No
+OP-1591,Mountain,Clear,Day,26,575,0.83,1,2,54,117,5.9,Success,Indirect Fire,No
+OP-1592,Desert,Fog,Day,22,165,2.1,0,10,19,179,13.9,Failure,IED,Yes
+OP-1593,Mountain,Clear,Night,22,506,0.51,1,6,35,154,10.0,Failure,Ambush,Yes
+OP-1594,Jungle,Clear,Night,19,247,1.46,0,8,23,167,12.0,Partial,IED,Yes
+OP-1595,Desert,Fog,Dusk,8,196,2.83,1,2,38,56,13.4,Failure,IED,Yes
+OP-1596,Plains,Clear,Night,13,327,1.56,0,10,43,18,3.6,Success,Ambush,No
+OP-1597,Plains,Clear,Dusk,25,393,2.55,0,10,34,170,11.7,Partial,Direct Assault,Yes
+OP-1598,Urban,Clear,Night,10,270,0.81,1,4,35,110,8.2,Partial,IED,No
+OP-1599,Jungle,Storm,Day,2,543,0.73,0,7,3,29,6.0,Success,Ambush,No
+OP-1600,Urban,Clear,Night,20,389,1.55,0,5,35,92,14.7,Failure,Direct Assault,Yes
+OP-1601,Urban,Rain,Day,28,484,0.32,0,1,8,110,13.8,Failure,IED,Yes
+OP-1602,Mountain,Storm,Day,24,448,2.98,1,1,3,52,15.9,Failure,Direct Assault,Yes
+OP-1603,Mountain,Clear,Night,24,172,0.82,1,10,10,173,8.8,Partial,Ambush,No
+OP-1604,Urban,Rain,Night,19,198,2.88,0,10,22,56,14.2,Failure,Ambush,Yes
+OP-1605,Plains,Clear,Day,5,48,2.59,0,4,37,180,14.0,Failure,Indirect Fire,Yes
+OP-1606,Mountain,Clear,Night,29,132,2.67,0,7,60,108,15.0,Failure,Ambush,Yes
+OP-1607,Plains,Fog,Day,14,508,0.37,1,8,20,130,3.9,Success,Direct Assault,No
+OP-1608,Desert,Clear,Night,1,313,2.3,0,2,3,11,9.3,Failure,IED,No
+OP-1609,Plains,Clear,Dusk,3,376,0.73,1,6,37,146,5.0,Success,Direct Assault,No
+OP-1610,Desert,Clear,Dusk,18,250,2.19,0,8,38,145,13.0,Partial,IED,Yes
+OP-1611,Mountain,Fog,Dusk,16,476,0.73,1,3,8,151,10.6,Failure,Ambush,Yes
+OP-1612,Mountain,Clear,Night,22,304,0.59,0,3,4,37,9.1,Partial,Ambush,No
+OP-1613,Urban,Rain,Day,19,177,2.27,0,9,50,16,9.5,Success,IED,No
+OP-1614,Jungle,Clear,Day,11,179,2.56,0,6,1,170,19.5,Failure,Direct Assault,Yes
+OP-1615,Mountain,Clear,Dusk,15,147,0.75,1,3,57,21,4.2,Success,Ambush,No
+OP-1616,Jungle,Clear,Night,8,248,1.18,1,5,52,175,11.3,Failure,Ambush,Yes
+OP-1617,Plains,Rain,Night,25,530,2.97,0,2,17,69,14.4,Failure,Direct Assault,Yes
+OP-1618,Desert,Rain,Day,13,387,2.35,1,4,50,92,11.8,Failure,IED,Yes
+OP-1619,Desert,Clear,Day,6,590,2.42,0,2,15,37,11.0,Failure,Indirect Fire,Yes
+OP-1620,Jungle,Clear,Day,16,583,0.75,1,7,35,65,5.1,Success,Ambush,No
+OP-1621,Mountain,Clear,Night,16,304,1.44,1,10,1,74,6.3,Partial,Ambush,No
+OP-1622,Desert,Clear,Day,14,323,2.26,1,2,60,169,12.8,Failure,IED,Yes
+OP-1623,Urban,Fog,Dusk,21,109,2.4,0,1,13,26,13.4,Failure,Ambush,Yes
+OP-1624,Mountain,Rain,Day,20,324,0.95,1,2,43,21,6.0,Success,Ambush,No
+OP-1625,Jungle,Clear,Day,7,357,0.54,0,7,14,16,3.6,Success,Direct Assault,No
+OP-1626,Jungle,Fog,Dusk,29,74,2.69,1,9,19,154,14.9,Failure,Ambush,Yes
+OP-1627,Urban,Clear,Dusk,1,205,1.13,1,10,9,40,2.7,Success,Ambush,No
+OP-1628,Jungle,Storm,Night,20,301,2.25,1,9,53,150,12.4,Failure,Ambush,Yes
+OP-1629,Desert,Clear,Day,14,571,2.56,1,5,28,15,2.0,Success,IED,No
+OP-1630,Urban,Rain,Day,5,147,2.63,0,7,45,140,15.2,Failure,Direct Assault,Yes
+OP-1631,Jungle,Rain,Day,21,353,2.6,0,7,15,141,16.5,Failure,Ambush,Yes
+OP-1632,Urban,Fog,Day,18,370,2.09,0,7,13,174,18.6,Failure,Direct Assault,Yes
+OP-1633,Mountain,Storm,Day,9,500,2.91,1,9,46,14,6.7,Partial,Ambush,No
+OP-1634,Urban,Rain,Night,6,251,2.69,1,5,10,105,14.6,Failure,IED,Yes
+OP-1635,Mountain,Clear,Day,11,548,0.37,0,6,54,180,8.9,Success,Indirect Fire,No
+OP-1636,Plains,Rain,Dusk,6,444,2.03,0,9,28,56,8.8,Failure,Ambush,No
+OP-1637,Desert,Clear,Day,19,202,2.19,1,9,18,101,11.3,Partial,IED,Yes
+OP-1638,Jungle,Storm,Dusk,13,235,0.4,0,2,60,28,6.0,Success,Direct Assault,No
+OP-1639,Desert,Rain,Day,4,215,1.41,1,7,58,173,10.0,Failure,IED,Yes
+OP-1640,Jungle,Clear,Dusk,14,220,1.31,0,1,22,117,13.0,Failure,Indirect Fire,Yes
+OP-1641,Jungle,Clear,Night,22,44,1.36,0,7,54,54,7.4,Success,IED,No
+OP-1642,Jungle,Rain,Night,26,274,1.66,0,9,15,24,9.6,Partial,IED,No
+OP-1643,Urban,Clear,Day,28,322,1.72,1,10,4,171,12.9,Partial,Ambush,Yes
+OP-1644,Mountain,Fog,Night,8,82,2.69,0,3,55,165,18.1,Failure,Ambush,Yes
+OP-1645,Jungle,Clear,Night,7,233,2.73,0,3,30,148,18.9,Failure,Direct Assault,Yes
+OP-1646,Jungle,Rain,Night,21,563,1.48,1,3,35,75,10.0,Failure,Direct Assault,Yes
+OP-1647,Plains,Storm,Day,11,224,0.57,0,6,22,164,11.7,Partial,IED,Yes
+OP-1648,Desert,Clear,Dusk,30,426,2.57,0,8,21,175,17.6,Failure,Direct Assault,Yes
+OP-1649,Mountain,Clear,Night,8,168,0.43,0,1,15,116,11.8,Failure,Ambush,Yes
+OP-1650,Jungle,Clear,Dusk,25,250,1.95,1,5,48,46,7.4,Partial,IED,No
+OP-1651,Jungle,Clear,Day,23,473,1.68,0,5,5,102,14.9,Failure,IED,Yes
+OP-1652,Jungle,Rain,Night,18,537,2.23,1,6,42,112,12.1,Failure,Ambush,Yes
+OP-1653,Jungle,Clear,Day,19,357,0.46,0,2,60,118,9.0,Failure,Direct Assault,No
+OP-1654,Mountain,Clear,Day,2,481,2.9,0,2,3,33,13.3,Failure,Ambush,Yes
+OP-1655,Jungle,Clear,Day,17,244,2.34,0,4,51,107,13.4,Failure,Direct Assault,Yes
+OP-1656,Jungle,Clear,Dusk,13,325,0.47,0,5,46,146,9.1,Partial,Direct Assault,No
+OP-1657,Urban,Clear,Dusk,29,431,2.62,1,7,58,18,9.1,Partial,Ambush,No
+OP-1658,Jungle,Clear,Day,2,538,0.95,1,8,18,75,3.9,Success,Indirect Fire,No
+OP-1659,Desert,Clear,Day,2,151,0.55,1,8,9,91,2.0,Success,Direct Assault,No
+OP-1660,Urban,Storm,Dusk,12,251,1.34,1,1,50,24,8.7,Failure,Ambush,No
+OP-1661,Mountain,Storm,Day,10,73,1.61,1,8,14,136,10.2,Failure,Ambush,Yes
+OP-1662,Urban,Clear,Day,4,275,2.58,1,8,1,52,8.7,Partial,Direct Assault,No
+OP-1663,Desert,Rain,Dusk,26,168,0.38,0,4,8,164,11.7,Partial,Direct Assault,Yes
+OP-1664,Jungle,Fog,Night,26,182,0.48,0,10,27,178,10.4,Success,Ambush,Yes
+OP-1665,Plains,Rain,Dusk,21,147,0.73,0,9,1,96,4.3,Success,Direct Assault,No
+OP-1666,Urban,Storm,Day,26,63,2.49,0,4,43,47,15.8,Failure,Ambush,Yes
+OP-1667,Mountain,Fog,Day,19,336,1.12,1,9,8,84,6.9,Success,Ambush,No
+OP-1668,Mountain,Clear,Day,6,460,1.17,0,2,32,135,16.0,Failure,Ambush,Yes
+OP-1669,Plains,Clear,Night,26,575,0.48,0,2,40,62,5.3,Partial,Direct Assault,No
+OP-1670,Jungle,Clear,Day,22,42,0.5,0,1,45,75,8.0,Failure,IED,No
+OP-1671,Urban,Clear,Night,10,164,1.21,1,5,37,43,1.9,Success,IED,No
+OP-1672,Urban,Rain,Day,23,97,1.97,0,7,9,11,10.8,Failure,Indirect Fire,Yes
+OP-1673,Plains,Clear,Day,24,458,0.39,0,8,19,27,1.9,Success,Ambush,No
+OP-1674,Jungle,Clear,Night,25,582,1.74,1,5,38,89,8.7,Partial,Indirect Fire,No
+OP-1675,Mountain,Clear,Day,13,479,1.63,1,10,11,31,4.4,Success,IED,No
+OP-1676,Desert,Clear,Night,17,197,0.78,0,10,10,34,3.3,Success,Indirect Fire,No
+OP-1677,Plains,Clear,Day,4,399,2.14,1,1,20,70,9.7,Partial,Direct Assault,No
+OP-1678,Plains,Fog,Day,6,119,0.86,1,3,9,81,3.7,Success,Direct Assault,No
+OP-1679,Jungle,Storm,Day,17,465,1.63,0,9,32,108,12.5,Partial,Ambush,Yes
+OP-1680,Urban,Clear,Dusk,8,332,1.44,1,9,40,130,6.6,Success,IED,No
+OP-1681,Desert,Storm,Day,14,110,0.74,0,7,19,25,4.6,Success,Ambush,No
+OP-1682,Urban,Fog,Day,24,343,2.85,0,10,32,19,11.8,Partial,IED,Yes
+OP-1683,Jungle,Fog,Day,9,584,2.12,1,2,21,115,13.0,Failure,Direct Assault,Yes
+OP-1684,Jungle,Fog,Night,23,514,1.65,1,7,57,133,11.9,Failure,Ambush,Yes
+OP-1685,Urban,Storm,Day,12,219,1.86,1,1,39,10,10.8,Failure,Indirect Fire,Yes
+OP-1686,Plains,Clear,Night,27,214,1.1,0,8,42,102,6.5,Success,Direct Assault,No
+OP-1687,Urban,Fog,Night,16,508,1.95,0,10,0,158,17.3,Failure,Ambush,Yes
+OP-1688,Mountain,Clear,Day,20,437,1.61,0,4,7,108,15.2,Failure,Ambush,Yes
+OP-1689,Mountain,Rain,Night,14,475,1.17,1,2,52,146,11.8,Failure,Ambush,Yes
+OP-1690,Jungle,Storm,Night,12,358,0.49,1,7,60,80,1.9,Success,Ambush,No
+OP-1691,Jungle,Clear,Night,16,361,0.42,1,10,49,139,2.7,Success,Ambush,No
+OP-1692,Jungle,Clear,Day,25,442,1.89,0,6,48,61,10.0,Partial,IED,Yes
+OP-1693,Desert,Fog,Day,5,340,1.03,1,10,50,173,5.0,Success,IED,No
+OP-1694,Mountain,Clear,Night,12,165,2.66,1,9,10,169,14.4,Failure,Ambush,Yes
+OP-1695,Plains,Rain,Day,27,129,1.58,1,1,14,141,12.5,Failure,Ambush,Yes
+OP-1696,Mountain,Clear,Day,12,429,1.29,0,7,21,110,7.6,Success,Direct Assault,No
+OP-1697,Urban,Clear,Day,30,335,1.39,0,6,0,158,14.0,Failure,Direct Assault,Yes
+OP-1698,Mountain,Clear,Day,3,589,0.82,0,6,60,114,9.8,Failure,Direct Assault,No
+OP-1699,Mountain,Clear,Day,11,93,1.32,0,1,50,79,8.8,Failure,Indirect Fire,No
+OP-1700,Desert,Rain,Dusk,5,487,2.53,0,6,3,75,12.1,Failure,Indirect Fire,Yes
+OP-1701,Mountain,Fog,Night,4,494,0.75,0,4,55,10,4.9,Success,Ambush,No
+OP-1702,Desert,Clear,Night,9,446,0.9,0,2,34,40,7.2,Partial,Direct Assault,No
+OP-1703,Plains,Fog,Night,4,132,0.65,1,7,38,13,0.8,Success,Direct Assault,No
+OP-1704,Jungle,Clear,Dusk,19,44,1.1,0,10,51,15,3.4,Success,Direct Assault,No
+OP-1705,Plains,Fog,Day,10,169,1.76,0,8,49,88,8.4,Partial,IED,No
+OP-1706,Plains,Clear,Night,15,582,2.97,1,5,49,62,7.4,Partial,Direct Assault,No
+OP-1707,Jungle,Fog,Day,8,293,0.8,0,5,4,14,5.7,Success,Ambush,No
+OP-1708,Mountain,Clear,Day,30,365,2.87,0,5,7,101,15.4,Failure,Ambush,Yes
+OP-1709,Mountain,Fog,Dusk,20,438,2.37,0,7,36,103,12.9,Failure,IED,Yes
+OP-1710,Mountain,Clear,Day,18,63,2.87,1,3,17,61,14.0,Failure,Ambush,Yes
+OP-1711,Desert,Clear,Day,22,208,1.39,1,6,34,119,7.5,Partial,IED,No
+OP-1712,Mountain,Clear,Night,17,460,2.95,1,4,29,176,18.7,Failure,IED,Yes
+OP-1713,Mountain,Clear,Dusk,23,462,2.6,1,8,47,77,8.9,Success,Ambush,No
+OP-1714,Desert,Fog,Night,1,171,1.5,1,6,43,57,4.3,Success,IED,No
+OP-1715,Plains,Clear,Dusk,17,483,2.38,0,6,47,36,8.3,Partial,Direct Assault,No
+OP-1716,Desert,Rain,Night,8,387,0.68,1,8,36,95,3.5,Success,Ambush,No
+OP-1717,Plains,Clear,Night,6,556,2.81,0,1,59,26,11.4,Failure,Ambush,Yes
+OP-1718,Jungle,Clear,Day,9,475,2.87,0,2,42,117,17.4,Failure,Ambush,Yes
+OP-1719,Mountain,Fog,Day,13,138,1.97,1,4,18,31,8.2,Partial,Direct Assault,No
+OP-1720,Plains,Rain,Dusk,4,535,2.19,0,9,29,102,8.6,Success,Direct Assault,No
+OP-1721,Urban,Fog,Day,5,129,1.05,1,4,56,149,10.1,Partial,IED,Yes
+OP-1722,Jungle,Clear,Night,11,77,1.25,0,10,47,11,3.4,Success,Ambush,No
+OP-1723,Plains,Clear,Dusk,11,73,0.43,0,5,5,45,4.7,Success,Direct Assault,No
+OP-1724,Jungle,Storm,Day,11,273,1.86,0,2,44,163,17.5,Failure,Ambush,Yes
+OP-1725,Jungle,Clear,Night,13,525,0.79,0,10,5,156,7.1,Success,Ambush,No
+OP-1726,Jungle,Clear,Day,11,291,1.13,1,9,54,86,2.7,Success,Ambush,No
+OP-1727,Urban,Fog,Dusk,1,373,1.03,1,2,0,79,10.1,Partial,Direct Assault,Yes
+OP-1728,Desert,Storm,Day,20,382,2.59,0,8,46,89,12.9,Failure,Ambush,Yes
+OP-1729,Desert,Fog,Day,29,443,0.77,0,2,48,55,5.9,Success,Ambush,No
+OP-1730,Plains,Rain,Day,26,532,2.18,0,3,23,11,10.6,Failure,Direct Assault,Yes
+OP-1731,Plains,Fog,Day,25,383,1.22,0,2,40,38,9.0,Failure,Direct Assault,No
+OP-1732,Plains,Fog,Night,3,427,1.84,0,2,58,147,12.8,Failure,Direct Assault,Yes
+OP-1733,Urban,Clear,Night,9,76,1.61,1,4,4,118,9.6,Success,IED,No
+OP-1734,Urban,Rain,Night,22,46,2.45,0,6,24,158,17.1,Failure,Ambush,Yes
+OP-1735,Urban,Fog,Day,26,424,0.58,1,7,1,149,11.8,Partial,Direct Assault,Yes
+OP-1736,Plains,Fog,Dusk,8,63,2.45,1,9,60,172,10.5,Partial,Direct Assault,Yes
+OP-1737,Urban,Clear,Dusk,26,465,2.14,1,2,55,52,10.4,Failure,Ambush,Yes
+OP-1738,Desert,Fog,Day,21,316,2.92,0,8,22,164,15.5,Failure,Indirect Fire,Yes
+OP-1739,Urban,Storm,Dusk,21,205,2.99,1,4,1,70,15.9,Failure,Ambush,Yes
+OP-1740,Jungle,Clear,Night,6,523,1.38,1,9,22,130,7.4,Success,Ambush,No
+OP-1741,Mountain,Clear,Day,2,99,1.54,0,3,18,60,9.2,Success,Ambush,No
+OP-1742,Plains,Clear,Night,16,491,2.3,0,7,36,92,12.3,Failure,Indirect Fire,Yes
+OP-1743,Mountain,Clear,Day,5,519,1.94,0,8,47,37,7.1,Success,IED,No
+OP-1744,Desert,Clear,Day,23,501,2.89,1,1,55,155,15.9,Failure,Direct Assault,Yes
+OP-1745,Plains,Fog,Day,9,512,0.3,0,10,30,35,0.2,Success,Direct Assault,No
+OP-1746,Mountain,Rain,Day,14,133,2.32,1,9,46,36,6.2,Success,Direct Assault,No
+OP-1747,Jungle,Rain,Dusk,9,529,0.56,0,1,57,180,14.4,Failure,Ambush,Yes
+OP-1748,Desert,Rain,Day,23,411,0.93,1,6,8,105,7.5,Partial,Direct Assault,No
+OP-1749,Mountain,Fog,Day,23,221,0.36,0,6,41,142,10.2,Partial,Direct Assault,Yes
+OP-1750,Desert,Clear,Night,21,325,1.17,0,1,12,45,8.1,Partial,IED,No
+OP-1751,Plains,Clear,Day,4,388,2.15,0,9,42,15,4.8,Success,Direct Assault,No
+OP-1752,Urban,Clear,Night,13,277,2.5,0,4,52,72,11.8,Partial,Direct Assault,Yes
+OP-1753,Desert,Clear,Dusk,23,405,2.91,1,5,53,171,12.9,Failure,Direct Assault,Yes
+OP-1754,Plains,Fog,Dusk,6,259,2.1,1,1,27,86,10.1,Failure,Direct Assault,Yes
+OP-1755,Jungle,Clear,Dusk,30,230,1.48,1,8,57,162,11.5,Failure,Ambush,Yes
+OP-1756,Urban,Clear,Night,14,582,0.74,1,6,6,36,5.7,Success,Indirect Fire,No
+OP-1757,Urban,Clear,Night,10,481,1.89,1,2,39,87,12.1,Failure,Direct Assault,Yes
+OP-1758,Jungle,Clear,Dusk,30,211,2.82,0,1,1,67,18.1,Failure,Direct Assault,Yes
+OP-1759,Jungle,Clear,Day,24,267,2.56,1,3,5,19,10.8,Partial,Direct Assault,Yes
+OP-1760,Desert,Clear,Day,26,273,1.81,0,8,6,145,12.7,Partial,Indirect Fire,Yes
+OP-1761,Mountain,Clear,Night,27,400,2.44,0,7,41,158,14.5,Failure,Direct Assault,Yes
+OP-1762,Desert,Storm,Night,12,53,1.08,0,7,25,157,12.5,Partial,IED,Yes
+OP-1763,Mountain,Fog,Night,14,175,2.63,1,5,21,162,15.3,Failure,Ambush,Yes
+OP-1764,Jungle,Clear,Day,21,108,1.86,0,8,47,114,11.3,Partial,Ambush,Yes
+OP-1765,Jungle,Rain,Night,12,56,1.02,1,10,55,37,0.2,Success,Ambush,No
+OP-1766,Urban,Clear,Night,15,525,1.66,0,1,60,174,16.3,Failure,Ambush,Yes
+OP-1767,Mountain,Clear,Day,2,557,1.89,1,3,11,48,9.5,Partial,Direct Assault,No
+OP-1768,Urban,Clear,Day,8,305,0.83,1,9,30,136,8.4,Partial,IED,No
+OP-1769,Jungle,Clear,Night,16,471,2.87,1,5,39,152,17.8,Failure,Ambush,Yes
+OP-1770,Desert,Clear,Day,13,301,0.73,1,4,14,113,5.1,Success,Indirect Fire,No
+OP-1771,Plains,Clear,Night,26,154,0.52,1,5,17,28,2.7,Success,Indirect Fire,No
+OP-1772,Jungle,Clear,Dusk,6,76,0.68,0,6,11,38,7.1,Success,Indirect Fire,No
+OP-1773,Desert,Clear,Day,12,512,2.74,1,5,59,45,6.0,Success,IED,No
+OP-1774,Urban,Storm,Dusk,5,76,1.35,1,6,33,167,11.5,Failure,Ambush,Yes
+OP-1775,Urban,Clear,Day,5,278,0.59,1,9,1,174,7.1,Success,Direct Assault,No
+OP-1776,Urban,Storm,Night,5,438,0.51,1,10,28,90,3.5,Success,Ambush,No
+OP-1777,Mountain,Storm,Dusk,21,379,1.06,1,10,55,62,6.2,Success,Ambush,No
+OP-1778,Jungle,Clear,Dusk,4,324,1.63,0,6,7,96,10.9,Partial,Ambush,Yes
+OP-1779,Jungle,Clear,Night,4,298,0.82,1,8,3,101,6.2,Success,Ambush,No
+OP-1780,Urban,Clear,Night,10,205,2.3,0,4,40,18,9.3,Partial,Ambush,No
+OP-1781,Jungle,Clear,Day,30,457,1.6,0,9,16,158,13.5,Partial,Ambush,Yes
+OP-1782,Plains,Fog,Day,24,176,2.81,1,1,18,100,14.9,Failure,Indirect Fire,Yes
+OP-1783,Jungle,Clear,Day,23,586,1.06,1,8,31,109,8.0,Success,Ambush,No
+OP-1784,Mountain,Rain,Day,25,551,1.63,1,8,60,130,10.4,Success,Indirect Fire,Yes
+OP-1785,Desert,Clear,Day,16,515,1.72,1,10,49,174,7.9,Success,IED,No
+OP-1786,Plains,Rain,Night,18,314,2.48,0,6,12,106,12.9,Failure,Direct Assault,Yes
+OP-1787,Urban,Clear,Night,27,526,0.53,0,5,55,13,6.5,Success,IED,No
+OP-1788,Mountain,Rain,Night,10,586,1.62,0,3,31,155,16.1,Failure,Indirect Fire,Yes
+OP-1789,Plains,Clear,Day,16,386,1.78,0,1,53,174,12.4,Failure,Ambush,Yes
+OP-1790,Desert,Storm,Day,7,347,3.0,1,9,28,33,8.7,Success,IED,No
+OP-1791,Jungle,Rain,Day,21,511,2.4,1,4,17,139,17.4,Failure,IED,Yes
+OP-1792,Desert,Rain,Day,20,294,1.82,1,4,51,55,9.2,Failure,Indirect Fire,No
+OP-1793,Plains,Clear,Dusk,6,302,1.9,0,1,44,87,8.2,Partial,Indirect Fire,No
+OP-1794,Plains,Rain,Dusk,12,502,1.93,0,2,1,150,14.8,Failure,IED,Yes
+OP-1795,Mountain,Rain,Dusk,11,349,1.51,1,3,44,101,8.7,Partial,Ambush,No
+OP-1796,Urban,Fog,Day,10,286,1.4,1,4,50,119,12.0,Failure,Direct Assault,Yes
+OP-1797,Urban,Clear,Night,8,74,2.79,0,10,55,169,16.0,Failure,Indirect Fire,Yes
+OP-1798,Mountain,Clear,Dusk,23,189,1.39,1,2,15,119,12.2,Failure,Indirect Fire,Yes
+OP-1799,Urban,Clear,Night,23,67,2.1,1,8,4,138,11.6,Failure,Ambush,Yes
+OP-1800,Plains,Rain,Day,11,319,1.18,0,9,4,15,2.3,Success,Direct Assault,No
+OP-1801,Mountain,Clear,Day,25,471,2.07,0,10,50,147,11.8,Partial,Ambush,Yes
+OP-1802,Urban,Rain,Day,6,197,2.62,0,10,20,132,13.9,Failure,Indirect Fire,Yes
+OP-1803,Urban,Clear,Dusk,14,270,0.77,1,9,48,76,3.7,Success,IED,No
+OP-1804,Plains,Rain,Day,22,545,1.93,1,10,55,134,7.5,Success,Indirect Fire,No
+OP-1805,Mountain,Fog,Day,23,209,1.32,0,5,53,140,14.0,Failure,Ambush,Yes
+OP-1806,Mountain,Fog,Dusk,9,358,0.33,1,8,9,132,8.0,Partial,Direct Assault,No
+OP-1807,Desert,Clear,Day,29,245,1.99,0,6,60,176,14.2,Failure,Indirect Fire,Yes
+OP-1808,Urban,Rain,Night,6,494,2.1,0,9,55,38,6.0,Success,Ambush,No
+OP-1809,Plains,Storm,Day,5,142,1.37,0,9,19,101,9.0,Success,Direct Assault,No
+OP-1810,Mountain,Clear,Dusk,6,533,1.54,0,6,28,109,11.6,Partial,Ambush,Yes
+OP-1811,Mountain,Clear,Day,30,304,2.57,1,4,31,17,8.8,Failure,Ambush,No
+OP-1812,Mountain,Clear,Day,6,123,1.53,0,8,0,112,11.4,Partial,Direct Assault,Yes
+OP-1813,Jungle,Rain,Day,14,271,1.83,0,4,21,175,16.0,Failure,Indirect Fire,Yes
+OP-1814,Plains,Fog,Night,10,418,2.21,1,5,11,107,10.1,Partial,Ambush,Yes
+OP-1815,Jungle,Fog,Day,6,447,2.73,1,5,2,34,8.1,Partial,IED,No
+OP-1816,Plains,Clear,Night,3,46,1.29,1,7,54,151,4.3,Success,Indirect Fire,No
+OP-1817,Jungle,Fog,Day,20,430,0.72,0,2,42,140,12.5,Failure,Direct Assault,Yes
+OP-1818,Plains,Clear,Night,6,171,2.51,0,3,9,121,13.5,Failure,Direct Assault,Yes
+OP-1819,Urban,Clear,Day,28,160,1.42,0,1,3,129,15.4,Failure,Direct Assault,Yes
+OP-1820,Urban,Clear,Day,14,441,0.46,1,4,52,174,10.2,Failure,IED,Yes
+OP-1821,Mountain,Fog,Day,13,451,0.85,1,8,22,179,8.8,Success,Indirect Fire,No
+OP-1822,Desert,Rain,Night,8,303,1.89,0,3,35,21,10.7,Failure,IED,Yes
+OP-1823,Plains,Clear,Dusk,19,157,1.19,1,2,17,14,3.3,Success,Indirect Fire,No
+OP-1824,Desert,Fog,Day,12,345,2.65,1,1,31,140,15.9,Failure,Direct Assault,Yes
+OP-1825,Desert,Rain,Night,18,280,2.52,1,9,4,158,11.2,Partial,Indirect Fire,Yes
+OP-1826,Plains,Clear,Dusk,19,385,2.27,1,3,17,39,8.4,Partial,IED,No
+OP-1827,Urban,Fog,Night,1,185,2.03,0,3,45,14,10.1,Failure,IED,Yes
+OP-1828,Desert,Clear,Night,7,207,0.98,0,9,43,141,7.5,Success,IED,No
+OP-1829,Mountain,Storm,Day,18,74,1.13,0,7,43,170,12.7,Partial,Ambush,Yes
+OP-1830,Plains,Clear,Dusk,16,290,2.41,0,5,38,166,13.9,Partial,IED,Yes
+OP-1831,Urban,Fog,Day,28,313,2.42,1,2,19,13,13.1,Partial,Ambush,Yes
+OP-1832,Mountain,Clear,Night,14,389,2.18,1,8,27,75,8.8,Partial,Ambush,No
+OP-1833,Mountain,Clear,Day,5,563,0.47,1,6,59,166,5.0,Success,Ambush,No
+OP-1834,Jungle,Clear,Day,24,462,2.21,1,4,58,104,12.8,Failure,Ambush,Yes
+OP-1835,Urban,Rain,Night,22,222,0.58,1,3,8,140,11.0,Failure,IED,Yes
+OP-1836,Urban,Rain,Night,17,439,1.67,0,3,42,109,13.4,Failure,Indirect Fire,Yes
+OP-1837,Urban,Storm,Day,4,103,2.49,0,3,56,162,18.9,Failure,Ambush,Yes
+OP-1838,Desert,Rain,Dusk,17,426,1.08,0,10,21,20,2.2,Success,Indirect Fire,No
+OP-1839,Urban,Clear,Dusk,18,167,2.27,1,7,47,136,14.4,Failure,IED,Yes
+OP-1840,Urban,Rain,Dusk,11,422,0.87,1,6,46,100,5.2,Partial,Direct Assault,No
+OP-1841,Plains,Clear,Night,14,382,2.7,1,6,35,170,12.4,Partial,Ambush,Yes
+OP-1842,Mountain,Clear,Day,23,206,0.35,0,8,16,156,7.9,Partial,Ambush,No
+OP-1843,Mountain,Clear,Day,28,556,0.71,0,6,47,108,9.3,Partial,Ambush,No
+OP-1844,Desert,Clear,Night,3,210,2.38,1,7,0,70,9.5,Partial,IED,No
+OP-1845,Mountain,Fog,Day,10,360,2.15,1,6,24,139,15.0,Partial,Ambush,Yes
+OP-1846,Desert,Clear,Day,1,210,2.8,0,2,60,27,9.8,Partial,Direct Assault,No
+OP-1847,Jungle,Clear,Day,2,392,2.0,1,3,50,46,8.8,Partial,Indirect Fire,No
+OP-1848,Urban,Storm,Day,22,218,0.42,0,10,57,58,6.1,Success,Direct Assault,No
+OP-1849,Mountain,Clear,Day,1,401,0.61,0,10,53,149,7.2,Success,Indirect Fire,No
+OP-1850,Jungle,Clear,Day,12,293,2.21,0,7,21,77,11.9,Failure,Direct Assault,Yes
+OP-1851,Desert,Clear,Night,22,170,1.46,0,3,23,76,7.8,Partial,Ambush,No
+OP-1852,Mountain,Clear,Night,8,446,0.55,1,9,60,28,0.2,Success,Ambush,No
+OP-1853,Plains,Storm,Day,27,157,1.56,0,4,34,115,10.1,Failure,Ambush,Yes
+OP-1854,Plains,Clear,Day,15,578,1.84,0,6,28,101,10.7,Partial,Direct Assault,Yes
+OP-1855,Mountain,Clear,Night,27,181,1.27,0,8,8,176,12.8,Failure,Ambush,Yes
+OP-1856,Jungle,Rain,Day,28,483,2.51,0,5,26,177,19.8,Failure,Direct Assault,Yes
+OP-1857,Mountain,Fog,Night,15,145,1.81,1,10,58,84,4.6,Success,Direct Assault,No
+OP-1858,Plains,Rain,Dusk,14,526,1.68,1,9,57,170,10.2,Partial,IED,Yes
+OP-1859,Plains,Clear,Day,24,430,2.38,0,10,28,94,12.1,Partial,IED,Yes
+OP-1860,Urban,Fog,Night,11,464,1.2,0,1,37,141,14.4,Failure,Ambush,Yes
+OP-1861,Urban,Storm,Day,26,474,1.68,1,1,3,132,14.5,Failure,Ambush,Yes
+OP-1862,Jungle,Fog,Dusk,23,164,0.41,1,4,51,74,7.2,Partial,Ambush,No
+OP-1863,Plains,Clear,Day,29,420,1.98,0,10,42,127,8.4,Success,Direct Assault,No
+OP-1864,Urban,Clear,Dusk,6,40,1.68,0,2,2,116,14.6,Failure,IED,Yes
+OP-1865,Desert,Storm,Day,13,170,2.22,1,7,59,86,7.9,Success,IED,No
+OP-1866,Urban,Storm,Dusk,16,354,2.27,1,7,50,170,13.1,Partial,IED,Yes
+OP-1867,Urban,Rain,Day,18,590,1.23,0,4,13,15,9.6,Success,Direct Assault,No
+OP-1868,Desert,Clear,Day,28,554,1.28,0,5,0,135,11.5,Partial,IED,Yes
+OP-1869,Urban,Rain,Night,4,338,0.71,0,1,11,175,14.4,Failure,Ambush,Yes
+OP-1870,Mountain,Clear,Dusk,1,525,1.57,1,3,10,123,9.1,Partial,Indirect Fire,No
+OP-1871,Urban,Rain,Night,22,243,1.87,1,4,53,77,8.5,Partial,Ambush,No
+OP-1872,Jungle,Clear,Day,6,483,1.1,1,5,51,124,5.2,Success,IED,No
+OP-1873,Mountain,Clear,Night,20,576,1.1,1,9,8,35,3.4,Success,Indirect Fire,No
+OP-1874,Jungle,Rain,Day,6,268,1.93,1,4,6,18,6.9,Failure,Ambush,No
+OP-1875,Desert,Rain,Night,26,338,0.66,0,10,17,31,6.5,Partial,Indirect Fire,No
+OP-1876,Jungle,Clear,Dusk,1,481,0.61,0,6,41,48,2.8,Success,Ambush,No
+OP-1877,Mountain,Fog,Night,25,192,0.43,1,9,3,28,3.0,Success,Direct Assault,No
+OP-1878,Jungle,Rain,Day,21,381,2.56,0,4,41,14,12.0,Failure,Ambush,Yes
+OP-1879,Desert,Clear,Day,22,484,1.22,1,5,27,95,8.9,Partial,Ambush,No
+OP-1880,Urban,Clear,Night,26,516,2.27,1,1,9,88,14.6,Failure,Ambush,Yes
+OP-1881,Jungle,Rain,Day,29,391,1.79,1,9,5,31,7.8,Success,Ambush,No
+OP-1882,Plains,Rain,Night,19,486,2.78,0,3,10,11,10.4,Failure,Indirect Fire,Yes
+OP-1883,Desert,Clear,Night,13,172,2.79,1,3,59,71,8.6,Partial,IED,No
+OP-1884,Desert,Clear,Dusk,22,171,2.13,1,1,17,125,12.9,Failure,Ambush,Yes
+OP-1885,Plains,Fog,Day,18,309,1.63,0,7,10,13,6.7,Partial,Direct Assault,No
+OP-1886,Urban,Fog,Night,3,89,2.76,1,5,23,53,9.8,Success,Ambush,No
+OP-1887,Jungle,Fog,Day,29,62,0.75,1,8,9,66,3.2,Success,IED,No
+OP-1888,Urban,Clear,Day,20,375,1.91,1,3,14,25,10.0,Success,IED,Yes
+OP-1889,Mountain,Clear,Day,2,425,0.81,1,2,34,34,5.6,Partial,Direct Assault,No
+OP-1890,Plains,Fog,Dusk,12,499,1.86,0,6,8,150,14.8,Failure,IED,Yes
+OP-1891,Desert,Storm,Day,13,227,2.23,1,2,31,55,11.3,Failure,IED,Yes
+OP-1892,Mountain,Clear,Day,13,267,0.67,0,9,15,97,6.2,Success,Ambush,No
+OP-1893,Mountain,Rain,Dusk,10,600,1.24,1,4,3,166,11.8,Success,Ambush,Yes
+OP-1894,Desert,Clear,Night,6,178,2.77,0,6,30,157,11.9,Failure,IED,Yes
+OP-1895,Jungle,Clear,Day,10,436,1.51,0,7,9,91,9.5,Partial,Direct Assault,No
+OP-1896,Jungle,Fog,Dusk,25,521,1.23,0,9,40,143,10.9,Failure,Ambush,Yes
+OP-1897,Plains,Clear,Dusk,14,523,2.67,1,4,57,156,10.8,Partial,Ambush,Yes
+OP-1898,Urban,Fog,Night,11,363,2.94,1,7,23,61,12.2,Failure,Ambush,Yes
+OP-1899,Urban,Rain,Dusk,9,378,2.2,0,10,5,43,9.0,Success,IED,No
+OP-1900,Jungle,Storm,Day,21,50,2.15,1,8,54,95,10.8,Partial,Ambush,Yes
+OP-1901,Mountain,Clear,Night,3,494,0.61,0,7,58,143,8.2,Partial,Ambush,No
+OP-1902,Desert,Fog,Day,22,444,0.87,0,9,16,63,7.0,Success,IED,No
+OP-1903,Desert,Clear,Day,28,92,2.01,1,7,42,136,11.0,Partial,Direct Assault,Yes
+OP-1904,Desert,Rain,Day,14,344,1.17,1,10,25,12,0.2,Success,Direct Assault,No
+OP-1905,Urban,Clear,Day,12,545,2.73,0,10,24,131,14.2,Failure,Ambush,Yes
+OP-1906,Desert,Rain,Dusk,9,393,1.83,1,5,13,91,8.0,Success,Direct Assault,No
+OP-1907,Plains,Fog,Night,8,275,1.8,1,2,46,40,6.5,Partial,Ambush,No
+OP-1908,Jungle,Rain,Night,5,373,1.08,0,7,56,94,10.3,Partial,Ambush,Yes
+OP-1909,Mountain,Clear,Day,14,196,2.66,1,1,7,65,14.7,Failure,Ambush,Yes
+OP-1910,Urban,Fog,Day,29,433,1.76,1,2,17,50,9.8,Failure,IED,No
+OP-1911,Mountain,Clear,Day,11,194,2.6,0,1,19,162,19.6,Failure,Ambush,Yes
+OP-1912,Jungle,Clear,Day,7,196,1.31,0,4,51,126,12.4,Failure,Ambush,Yes
+OP-1913,Urban,Clear,Dusk,24,292,2.24,0,8,37,16,10.4,Partial,IED,Yes
+OP-1914,Jungle,Rain,Day,21,418,2.11,0,2,42,111,16.0,Failure,Direct Assault,Yes
+OP-1915,Urban,Rain,Day,27,498,1.53,1,7,21,66,7.8,Partial,IED,No
+OP-1916,Jungle,Clear,Day,11,118,1.84,0,5,26,156,12.8,Failure,Ambush,Yes
+OP-1917,Urban,Rain,Day,2,331,2.42,1,7,19,40,8.6,Partial,Direct Assault,No
+OP-1918,Mountain,Rain,Night,6,311,2.47,1,9,12,116,11.0,Partial,Indirect Fire,Yes
+OP-1919,Desert,Clear,Day,20,503,0.77,0,5,57,133,8.4,Partial,Direct Assault,No
+OP-1920,Plains,Fog,Day,19,186,2.63,0,3,41,46,12.6,Failure,Direct Assault,Yes
+OP-1921,Urban,Rain,Day,24,301,2.82,1,2,41,93,17.2,Failure,IED,Yes
+OP-1922,Urban,Fog,Dusk,5,423,1.71,0,4,59,155,14.9,Failure,Ambush,Yes
+OP-1923,Jungle,Clear,Day,16,405,3.0,1,9,5,62,11.3,Partial,IED,Yes
+OP-1924,Jungle,Rain,Day,23,354,0.77,0,6,53,175,12.6,Failure,IED,Yes
+OP-1925,Plains,Rain,Day,16,78,2.06,1,4,21,111,11.7,Failure,Direct Assault,Yes
+OP-1926,Mountain,Rain,Day,16,554,0.55,1,9,58,128,3.4,Success,Direct Assault,No
+OP-1927,Jungle,Fog,Day,25,517,2.25,0,5,13,75,15.5,Failure,Ambush,Yes
+OP-1928,Jungle,Storm,Day,5,98,0.63,1,1,5,167,14.1,Failure,IED,Yes
+OP-1929,Plains,Rain,Night,12,273,2.19,1,8,37,161,9.6,Partial,Direct Assault,No
+OP-1930,Urban,Clear,Day,14,494,1.37,0,9,44,124,10.6,Partial,IED,Yes
+OP-1931,Desert,Clear,Day,5,467,2.93,1,7,12,144,12.8,Failure,IED,Yes
+OP-1932,Mountain,Clear,Day,5,166,1.14,1,5,20,24,4.2,Success,Indirect Fire,No
+OP-1933,Desert,Fog,Dusk,24,81,1.32,1,5,38,12,3.9,Success,Direct Assault,No
+OP-1934,Desert,Fog,Day,14,524,2.7,1,3,14,156,17.1,Failure,Direct Assault,Yes
+OP-1935,Mountain,Clear,Day,26,214,1.75,0,1,47,55,12.7,Failure,Ambush,Yes
+OP-1936,Plains,Clear,Night,28,120,1.68,1,3,3,111,9.9,Partial,Indirect Fire,No
+OP-1937,Desert,Rain,Night,30,240,0.65,0,9,27,177,12.2,Failure,IED,Yes
+OP-1938,Desert,Clear,Night,2,487,1.05,0,3,27,115,9.0,Partial,Indirect Fire,No
+OP-1939,Jungle,Clear,Night,13,594,1.56,1,9,38,158,7.1,Success,IED,No
+OP-1940,Plains,Fog,Night,29,518,2.61,0,7,55,28,11.6,Partial,Direct Assault,Yes
+OP-1941,Urban,Rain,Night,15,439,1.9,1,4,36,107,13.2,Failure,Ambush,Yes
+OP-1942,Plains,Clear,Night,22,492,0.77,1,9,4,167,7.8,Success,Ambush,No
+OP-1943,Jungle,Fog,Night,26,184,0.59,0,8,22,151,9.3,Partial,Ambush,No
+OP-1944,Jungle,Clear,Day,25,296,2.03,0,3,44,41,11.4,Failure,Indirect Fire,Yes
+OP-1945,Plains,Rain,Day,6,392,1.79,0,8,11,152,9.8,Partial,Direct Assault,No
+OP-1946,Plains,Clear,Dusk,21,117,0.48,0,2,45,28,5.1,Success,IED,No
+OP-1947,Mountain,Rain,Day,24,436,1.62,1,1,36,102,12.4,Failure,Indirect Fire,Yes
+OP-1948,Mountain,Rain,Day,28,459,2.27,0,10,2,72,12.5,Failure,Indirect Fire,Yes
+OP-1949,Mountain,Storm,Day,17,288,2.79,0,6,39,83,12.3,Partial,Ambush,Yes
+OP-1950,Mountain,Clear,Day,25,524,2.65,0,8,41,144,14.5,Failure,Ambush,Yes
+OP-1951,Plains,Clear,Night,19,328,0.6,0,1,32,33,4.6,Success,Indirect Fire,No
+OP-1952,Plains,Rain,Night,18,469,1.09,1,9,45,103,1.0,Success,Direct Assault,No
+OP-1953,Plains,Clear,Dusk,21,390,1.26,0,7,25,144,8.0,Partial,Indirect Fire,No
+OP-1954,Plains,Rain,Night,21,367,1.87,1,5,41,63,5.6,Success,Indirect Fire,No
+OP-1955,Urban,Clear,Day,18,424,1.36,0,2,25,165,14.6,Failure,Ambush,Yes
+OP-1956,Mountain,Rain,Night,21,239,1.36,0,10,26,103,8.6,Partial,Ambush,No
+OP-1957,Urban,Clear,Day,17,469,1.58,1,6,36,179,15.5,Failure,Direct Assault,Yes
+OP-1958,Urban,Storm,Night,16,514,2.89,1,1,9,106,18.1,Failure,IED,Yes
+OP-1959,Desert,Clear,Dusk,29,196,2.08,1,9,0,175,10.8,Partial,Direct Assault,Yes
+OP-1960,Desert,Clear,Day,8,352,2.06,0,1,47,12,5.8,Success,Indirect Fire,No
+OP-1961,Urban,Rain,Day,20,469,1.03,1,1,3,173,14.5,Failure,IED,Yes
+OP-1962,Urban,Storm,Night,22,559,0.83,0,8,48,171,12.2,Success,Ambush,Yes
+OP-1963,Desert,Clear,Dusk,8,201,0.38,0,3,56,37,5.1,Partial,Ambush,No
+OP-1964,Urban,Storm,Night,28,514,1.5,0,6,7,171,15.2,Failure,Ambush,Yes
+OP-1965,Plains,Clear,Dusk,27,134,1.7,0,5,51,91,10.6,Failure,Indirect Fire,Yes
+OP-1966,Jungle,Fog,Day,21,126,1.69,1,5,41,172,14.8,Failure,Direct Assault,Yes
+OP-1967,Desert,Clear,Dusk,27,428,2.74,1,3,56,153,13.4,Failure,Indirect Fire,Yes
+OP-1968,Urban,Fog,Dusk,23,245,2.97,1,5,47,124,15.2,Failure,Direct Assault,Yes
+OP-1969,Mountain,Clear,Day,3,333,1.73,1,6,26,10,4.0,Success,IED,No
+OP-1970,Mountain,Clear,Day,13,423,0.33,0,2,30,147,10.1,Failure,Ambush,Yes
+OP-1971,Urban,Rain,Dusk,21,291,0.8,0,2,40,96,10.8,Failure,Ambush,Yes
+OP-1972,Plains,Storm,Night,16,94,2.71,0,5,10,133,18.6,Failure,Indirect Fire,Yes
+OP-1973,Jungle,Clear,Day,24,63,0.91,0,9,0,100,9.9,Success,IED,No
+OP-1974,Urban,Clear,Dusk,8,67,2.28,0,4,59,16,9.1,Partial,Ambush,No
+OP-1975,Urban,Storm,Day,3,449,1.61,0,5,50,148,13.3,Partial,Ambush,Yes
+OP-1976,Desert,Rain,Day,4,595,0.93,1,2,12,16,4.7,Success,Ambush,No
+OP-1977,Mountain,Clear,Dusk,3,314,0.5,1,7,29,180,8.7,Partial,Ambush,No
+OP-1978,Plains,Clear,Night,13,388,2.54,1,9,50,43,5.5,Success,Indirect Fire,No
+OP-1979,Mountain,Storm,Day,4,92,0.6,0,3,38,127,12.1,Failure,Ambush,Yes
+OP-1980,Mountain,Clear,Day,1,393,1.15,1,8,47,158,8.4,Partial,Direct Assault,No
+OP-1981,Mountain,Clear,Night,10,294,2.47,1,3,12,23,9.8,Partial,Indirect Fire,No
+OP-1982,Urban,Fog,Night,11,146,0.43,0,2,15,62,9.3,Failure,Ambush,No
+OP-1983,Desert,Clear,Night,20,184,2.95,1,10,20,133,12.4,Partial,Direct Assault,Yes
+OP-1984,Jungle,Clear,Day,22,59,2.94,1,10,17,123,12.5,Failure,Ambush,Yes
+OP-1985,Desert,Fog,Day,7,236,0.43,0,6,22,40,1.2,Success,IED,No
+OP-1986,Mountain,Clear,Day,29,224,2.31,1,3,12,121,16.1,Failure,Indirect Fire,Yes
+OP-1987,Urban,Clear,Dusk,29,360,1.67,1,10,17,110,8.9,Success,Ambush,No
+OP-1988,Desert,Clear,Day,11,72,2.42,0,1,17,135,17.9,Failure,IED,Yes
+OP-1989,Urban,Clear,Night,24,84,2.1,0,7,38,117,15.7,Failure,IED,Yes
+OP-1990,Urban,Storm,Day,29,40,2.24,0,9,3,113,13.6,Partial,IED,Yes
+OP-1991,Mountain,Clear,Dusk,3,508,0.65,0,2,35,87,5.6,Success,Direct Assault,No
+OP-1992,Mountain,Clear,Day,14,125,1.38,1,10,9,176,10.5,Partial,Direct Assault,Yes
+OP-1993,Jungle,Clear,Dusk,12,489,1.45,1,4,2,10,6.1,Partial,Ambush,No
+OP-1994,Desert,Storm,Night,11,104,2.47,1,6,52,154,14.6,Failure,Direct Assault,Yes
+OP-1995,Plains,Clear,Night,24,198,0.99,1,4,41,17,3.8,Success,Ambush,No
+OP-1996,Urban,Clear,Night,15,61,2.74,1,3,40,146,16.7,Failure,Ambush,Yes
+OP-1997,Plains,Clear,Dusk,30,177,0.89,0,1,50,65,7.0,Success,Indirect Fire,No
+OP-1998,Jungle,Clear,Night,6,250,0.86,1,5,35,172,8.2,Success,Ambush,No
+OP-1999,Urban,Rain,Dusk,23,397,2.03,0,10,51,54,9.5,Partial,Indirect Fire,No
+OP-2000,Urban,Storm,Day,28,101,1.08,1,5,49,119,12.1,Failure,IED,Yes

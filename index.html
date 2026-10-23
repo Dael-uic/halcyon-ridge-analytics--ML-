@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Halcyon Ridge Analytics | Combat Data Operations</title><link rel="stylesheet" href="css/style.css"></head>
+<body>
+<header class="top"><a class="brand" href="#top"><svg width="26" height="26" viewBox="0 0 26 26"><path d="M2 22 9 8l5 8 3-5 7 11z" fill="#b8860b"/></svg>Halcyon Ridge</a>
+<nav><a href="#about">Company</a><a href="#data">Data</a><a href="#lr">Regression</a><a href="#nb">Naive Bayes</a><a href="#knn">KNN</a><a href="#svm">SVM</a><a href="#tree">Tree</a><a href="#ann">Neural Net</a><a href="#compare">Summary</a></nav></header>
+<main id="top">
+<section class="hero"><div class="wrap"><h1>Every operation leaves data behind. We turn it into fewer casualties.</h1>
+<p class="lead">Halcyon Ridge Analytics helps defense medical and operations staff forecast casualty rates, classify incidents, and speed up care, using six machine learning methods explained in plain language.</p>
+<div class="stats" id="stats"></div><a class="btn" href="#lr">Try the live models</a></div></section>
+<section id="about"><div class="wrap"><h2>Company profile</h2>
+<div class="grid3"><div class="card"><h4>Mission</h4><p>Give commanders and field medics clear, evidence-based forecasts from combat operation data, so decisions on staffing, evacuation, and planning are made with facts rather than instinct.</p></div>
+<div class="card"><h4>Vision</h4><p>A future where every after-action report feeds a learning system that lowers preventable casualties and gets the right care to the right person first.</p></div>
+<div class="card"><h4>Operational goals</h4><p>Cut forecasting error on casualty planning, shorten triage time, flag mass-casualty risk before an operation starts, and keep every model explainable to non-technical staff.</p></div></div>
+<div class="grid2"><div class="card"><h4>Background</h4><p>Founded in 2016 by four data scientists and a former field-medical officer, Halcyon Ridge Analytics Corp. (fictional, headquartered in Quezon City) began by digitizing paper after-action reports. Today it supports defense ministries and humanitarian peacekeeping missions with casualty analytics, medical logistics planning, and triage decision support.</p>
+<table class="kv"><tr><th>Industry</th><td>Defense data analytics &amp; combat medical informatics</td></tr><tr><th>Founded</th><td>2016</td></tr><tr><th>Staff</th><td>120 analysts, engineers, and medical advisers</td></tr><tr><th>Clients</th><td>Defense ministries, peacekeeping task forces</td></tr><tr><th>Principle</th><td>Analytics for protection and care, never for targeting</td></tr></table></div>
+<div class="card"><h4>Leadership team</h4><table class="kv"><tr><th>Amper</th><td>Chief Executive Officer; strategy and client relations</td></tr><tr><th>Ariego</th><td>Chief Data Scientist; regression and neural network models</td></tr><tr><th>Dael</th><td>Head of Medical Analytics; triage and survival models</td></tr><tr><th>Malaga</th><td>Head of Engineering; data pipelines and this platform</td></tr></table>
+<p class="note">All names, figures, and data on this site are fictional and synthetic. This is a school project (ELEC026.23 Machine Learning), not a real company or operational tool.</p></div></div></div></section>
+<section id="data" class="alt"><div class="wrap"><h2>The data behind the models</h2>
+<p>Two generated datasets feed every model. Each model below trains in your browser when this page loads, on 80% of the rows, and is scored on the 20% it has never seen.</p>
+<div class="grid2"><div class="card"><h4>operations.csv: 1,000 combat operations</h4><p>One row per operation: terrain, weather, time of day, duration, force size, enemy-to-friendly ratio, air support, intelligence quality, armor share, medevac time, casualty rate, outcome, incident type, and a mass-casualty flag.</p><div class="scroll"><table class="dt" id="p1"></table></div></div>
+<div class="card"><h4>casualty_triage.csv: 1,200 casualty cases</h4><p>One row per injured soldier: age, heart rate, blood pressure, breathing rate, consciousness score (GCS), bleeding level, evacuation delay, assigned triage category, and survival.</p><div class="scroll"><table class="dt" id="p2"></table></div></div></div>
+<p><a class="btn sm" href="data/operations.csv" download>Download operations.csv</a> <a class="btn sm" href="data/casualty_triage.csv" download>Download casualty_triage.csv</a></p></div></section>
+<div id="algos"></div>
+<section id="compare" class="alt"><div class="wrap"><h2>One company, six different problems</h2><div class="scroll"><table class="dt" id="cmp"></table></div></div></section>
+</main>
+<footer><div class="wrap">Halcyon Ridge Analytics Corp. is fictional. Built by Amper, Ariego, Dael, and Malaga for ELEC026.23 Machine Learning. Data is synthetic.</div></footer>
+<script src="data/dataset.js"></script><script src="js/ml.js"></script><script src="js/app.js"></script></body></html>
