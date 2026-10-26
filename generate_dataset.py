@@ -38,3 +38,16 @@ for name,rows in (("operations",ops),("casualty_triage",tri)):
 with open("data/dataset.js","w") as f:
     f.write("window.OPS="+json.dumps(ops)+";\nwindow.TRI="+json.dumps(tri)+";\n")
 print(len(ops),len(tri))
+# ---- logistics dataset (used by the SVM): one row per supply convoy ----
+log = []
+for i in range(1000):
+    dist = random.randint(20,600); road = random.randint(1,10); cargo = random.randint(5,60); veh = random.randint(3,30)
+    esc = int(random.random()<.5); wx = random.randint(1,10); thr = random.randint(1,10); fuel = random.randint(10,100)
+    delay = .012*dist+(10-road)*.5+.06*cargo+.5*wx+.6*thr-2.5*esc-.04*fuel-.05*veh+random.gauss(0,1.5)
+    delay = round(max(0,delay),1)
+    log.append(dict(convoy_id=f"CV-{2001+i}",distance=dist,road=road,cargo=cargo,vehicles=veh,escort=esc,weather=wx,threat=thr,fuel=fuel,delay_hrs=delay,late="Yes" if delay>=10 else "No"))
+with open("data/logistics.csv","w",newline="") as f:
+    wr = csv.DictWriter(f,fieldnames=log[0].keys()); wr.writeheader(); wr.writerows(log)
+with open("data/dataset.js","a") as f:
+    f.write("window.LOG="+json.dumps(log)+";\n")
+print("logistics",len(log),sum(r["late"]=="Yes" for r in log))
